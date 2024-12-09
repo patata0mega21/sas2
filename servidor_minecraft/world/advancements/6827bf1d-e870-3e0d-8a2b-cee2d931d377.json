@@ -2340,6 +2340,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_dark_oak_upgraded_fence": {
+    "criteria": {
+      "has_log": "2024-12-09 13:03:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2024-12-06 02:23:17 +0000"
@@ -4085,6 +4091,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-09 13:03:45 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/crimson_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-06 16:24:34 +0000"
@@ -5069,6 +5081,12 @@
   "cfm:recipes/cfm/stripped_warped_mail_box": {
     "criteria": {
       "has_chest": "2024-12-06 16:24:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_dark_oak_blinds": {
+    "criteria": {
+      "has_log": "2024-12-09 13:03:45 +0000"
     },
     "done": true
   },
