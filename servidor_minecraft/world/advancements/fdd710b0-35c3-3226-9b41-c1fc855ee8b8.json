@@ -2099,6 +2099,12 @@
     },
     "done": true
   },
+  "a_man_with_plushies:first_plush_box": {
+    "criteria": {
+      "first_plush_box": "2024-12-09 02:46:06 +0000"
+    },
+    "done": true
+  },
   "create:root": {
     "criteria": {
       "0": "2024-12-06 02:28:00 +0000"
