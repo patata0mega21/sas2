@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2024-12-09 02:32:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2024-12-06 02:38:41 +0000"
@@ -218,6 +224,12 @@
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2024-12-07 03:27:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2024-12-09 02:32:56 +0000"
     },
     "done": true
   },
@@ -617,6 +629,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-09 02:32:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_boots": "2024-12-06 02:36:10 +0000"
@@ -992,6 +1010,12 @@
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-06 02:38:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-09 02:32:56 +0000"
     },
     "done": true
   },
@@ -1433,6 +1457,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-09 02:42:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-12-06 04:07:17 +0000"
@@ -1478,6 +1508,12 @@
   "paraglider:recipes/paraglider/cosmetic/paraglider": {
     "criteria": {
       "has_paragliders": "2024-12-07 01:47:02 +0000"
+    },
+    "done": true
+  },
+  "betterendforge:recipes/betterendforge/andesite_pedestal": {
+    "criteria": {
+      "has_andesite_pillar": "2024-12-09 02:42:08 +0000"
     },
     "done": true
   },
@@ -2597,6 +2633,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-12-09 02:33:11 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/dolomite_cobblestone_slab_from_dolomite_cobblestone_stonecutting": {
     "criteria": {
       "has_dolomite_cobblestone": "2024-12-06 04:00:54 +0000"
@@ -2879,6 +2921,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-09 02:42:08 +0000"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass": {
     "criteria": {
       "has_recipe": "2024-12-06 02:31:23 +0000"
@@ -2996,6 +3044,12 @@
   "betterendforge:recipes/betterendforge/thallasium_pickaxe_smithing": {
     "criteria": {
       "has_stick": "2024-12-06 02:39:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2024-12-09 02:32:56 +0000"
     },
     "done": true
   },
@@ -4126,6 +4180,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-09 02:42:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/grindstone": {
     "criteria": {
       "has_stone_slab": "2024-12-06 03:49:41 +0000"
@@ -4777,6 +4837,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-09 02:32:56 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/dark_oak_coffee_table": {
     "criteria": {
       "has_log": "2024-12-09 02:28:39 +0000"
@@ -4822,6 +4888,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2024-12-06 04:25:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_dark_oak_planks": "2024-12-09 02:32:56 +0000"
     },
     "done": true
   },
@@ -5113,6 +5185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-09 02:42:08 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/spruce_desk": {
     "criteria": {
       "has_log": "2024-12-06 02:31:23 +0000"
@@ -5191,6 +5269,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/dark_oak_window": {
+    "criteria": {
+      "has_ingredient": "2024-12-09 02:32:56 +0000"
+    },
+    "done": true
+  },
   "bigreactors:recipes/bigreactors.turbine/turbine/basic/activefluidport_forge": {
     "criteria": {
       "has_item2": "2024-12-06 02:36:35 +0000"
@@ -5236,6 +5320,12 @@
   "minecraft:recipes/travelersbackpack/magma_cube_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2024-12-07 04:46:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-09 02:32:56 +0000"
     },
     "done": true
   },
@@ -5470,6 +5560,12 @@
   "cfm:recipes/cfm/diorite_cabinet": {
     "criteria": {
       "has_log": "2024-12-06 03:16:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2024-12-09 02:32:56 +0000"
     },
     "done": true
   },
