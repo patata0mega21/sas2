@@ -7552,3 +7552,21 @@ java.lang.NullPointerException: null
 [09Dec2024 15:14:42.637] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: yxrall moved too quickly! 4.165331319778716,5.858955430982832,-8.006598502204724
 [09Dec2024 15:14:54.248] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [09Dec2024 15:14:54.258] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[09Dec2024 15:17:48.237] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Roger'/42204, l='ServerLevel[world]', x=551.93, y=65.00, z=11790.37] died, message: 'Roger suffocated in a wall'
+[09Dec2024 15:19:53.932] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[09Dec2024 15:19:53.945] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[09Dec2024 15:20:11.203] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <patata0mega> loco mira me voy te dejo el server prendio y a la 1 voy arreglar eso del voice chat
+[09Dec2024 15:20:17.551] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: yxrall moved too quickly! -1.6513470356007929,-9.839848551938047,-1.5958475572733732
+[09Dec2024 15:20:21.310] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <yxrall> ya tio
+[09Dec2024 15:20:23.297] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <patata0mega> asique chao deai lo voy apagar
+[09Dec2024 15:20:31.045] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <yxrall> yap
+[09Dec2024 15:20:51.950] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: patata0mega lost connection: Timed out
+[09Dec2024 15:20:51.950] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: patata0mega left the game
+[09Dec2024 15:20:51.955] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of patata0mega
+[09Dec2024 15:20:51.959] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client patata0mega
+[09Dec2024 15:20:52.024] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[09Dec2024 15:24:06.887] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4774ms or 95 ticks behind
+[09Dec2024 15:24:21.479] [Worker-Main-170/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[09Dec2024 15:24:21.479] [Worker-Main-170/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[09Dec2024 15:24:58.766] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[09Dec2024 15:24:58.777] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
