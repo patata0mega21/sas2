@@ -723,3 +723,17 @@ java.lang.NullPointerException: null
 [09Dec2024 00:46:17.537] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: I_4M_R3D lost connection: Timed out
 [09Dec2024 00:46:17.537] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: I_4M_R3D left the game
 [09Dec2024 00:46:17.538] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client I_4M_R3D
+[09Dec2024 00:53:02.346] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <yxrall> diaz
+[09Dec2024 00:53:05.293] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <yxrall> escribelo
+[09Dec2024 00:53:17.788] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <_Orion_15632> crushed dark gem
+[09Dec2024 00:53:31.638] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <_Orion_15632> necesitas fortuna
+[09Dec2024 00:53:37.840] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <yxrall> yapo
+[09Dec2024 00:53:38.588] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <yxrall> agu
+[09Dec2024 00:53:40.533] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <yxrall> ponte la 10
+[09Dec2024 00:53:51.153] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <_Orion_15632> ya me dio el fortuna a mi
+[09Dec2024 00:54:47.689] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: yxrall has made the advancement [First Age]
+[09Dec2024 00:56:19.993] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: patata0mega moved wrongly!
+[09Dec2024 00:59:06.831] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: yxrall moved too quickly! -5.598971582890499,-7.5504756909579385,-4.241976838237747
+[09Dec2024 00:59:43.123] [Worker-Main-10/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[09Dec2024 00:59:43.129] [Worker-Main-10/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[09Dec2024 01:01:09.506] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
