@@ -8313,3 +8313,16 @@ java.lang.NullPointerException: null
 [09Dec2024 00:36:44.384] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Survival Mode]
 [09Dec2024 00:36:54.765] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [09Dec2024 00:36:54.776] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[09Dec2024 00:41:26.935] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Axel'/142, l='ServerLevel[world]', x=-866.30, y=71.00, z=-497.49] died, message: 'Axel was slain by Decaying Zombie'
+[09Dec2024 00:41:54.915] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[09Dec2024 00:41:54.925] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[09Dec2024 00:42:52.369] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Gudbrand'/150, l='ServerLevel[world]', x=-830.29, y=70.00, z=-446.44] died, message: 'Gudbrand was slain by Door Knight'
+[09Dec2024 00:43:16.320] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Tordis'/152, l='ServerLevel[world]', x=-842.31, y=66.92, z=-432.81] died, message: 'Tordis was slain by Door Knight'
+[09Dec2024 00:44:35.250] [Worker-Main-6/INFO] [ObserverLib/]: Load CachedWorldData 'rock-crystals' for world minecraft:overworld
+[09Dec2024 00:44:35.380] [Worker-Main-6/INFO] [ObserverLib/]: Loading of 'rock-crystals' for world minecraft:overworld finished.
+[09Dec2024 00:46:17.537] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: I_4M_R3D lost connection: Timed out
+[09Dec2024 00:46:17.537] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: I_4M_R3D left the game
+[09Dec2024 00:46:17.538] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of I_4M_R3D
+[09Dec2024 00:46:17.538] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client I_4M_R3D
+[09Dec2024 00:46:55.086] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[09Dec2024 00:46:55.094] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world

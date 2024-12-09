@@ -251,6 +251,12 @@
     },
     "done": true
   },
+  "druidcraft:druidcraft/root": {
+    "criteria": {
+      "hemp_seeds": "2024-12-09 00:40:37 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/yellow_seat": {
     "criteria": {
       "has_wool": "2024-12-06 04:25:34 +0000"

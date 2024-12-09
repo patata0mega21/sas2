@@ -167,6 +167,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/diorite_chair": {
+    "criteria": {
+      "has_log": "2024-12-09 00:45:41 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/dark_oak_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-06 03:39:36 +0000"
@@ -527,6 +533,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
+    "criteria": {
+      "has_polished_diorite": "2024-12-09 00:45:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_carpet": {
     "criteria": {
       "has_red_wool": "2024-12-06 03:53:44 +0000"
@@ -618,6 +630,12 @@
     },
     "done": true
   },
+  "betterendforge:recipes/betterendforge/diorite_pedestal": {
+    "criteria": {
+      "has_diorite_pillar": "2024-12-09 00:45:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2024-12-06 03:25:47 +0000"
@@ -681,6 +699,12 @@
   "minecraft:recipes/travelersbackpack/cake_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2024-12-06 16:09:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
+    "criteria": {
+      "has_polished_diorite": "2024-12-09 00:45:41 +0000"
     },
     "done": true
   },
@@ -1239,6 +1263,12 @@
   "cfm:recipes/cfm/oak_desk_cabinet": {
     "criteria": {
       "has_planks": "2024-12-06 14:43:49 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/diorite_coffee_table": {
+    "criteria": {
+      "has_log": "2024-12-09 00:45:41 +0000"
     },
     "done": true
   },
@@ -3246,6 +3276,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/diorite_table": {
+    "criteria": {
+      "has_log": "2024-12-09 00:45:41 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/tools/golden_fishing_rod": {
     "criteria": {
       "has_gold": "2024-12-06 03:26:31 +0000"
@@ -3576,6 +3612,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2024-12-09 00:45:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2024-12-06 03:10:38 +0000"
@@ -3831,6 +3873,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2024-12-09 00:45:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2024-12-06 15:46:57 +0000"
@@ -3969,9 +4017,21 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/diorite_desk": {
+    "criteria": {
+      "has_log": "2024-12-09 00:45:41 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_spruce_kitchen_drawer": {
     "criteria": {
       "has_log": "2024-12-06 03:09:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2024-12-09 00:45:41 +0000"
     },
     "done": true
   },
@@ -5084,6 +5144,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-09 00:45:41 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_spruce_upgraded_gate": {
     "criteria": {
       "has_gate": "2024-12-06 03:20:02 +0000"
@@ -5528,6 +5594,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-09 00:45:41 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/andesite_desk_cabinet": {
     "criteria": {
       "has_planks": "2024-12-07 04:49:15 +0000"
@@ -5687,6 +5759,12 @@
   "minecraft:recipes/building_blocks/green_terracotta": {
     "criteria": {
       "has_terracotta": "2024-12-07 03:29:51 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/diorite_desk_cabinet": {
+    "criteria": {
+      "has_log": "2024-12-09 00:45:41 +0000"
     },
     "done": true
   },
@@ -5864,6 +5942,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/diorite_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2024-12-09 00:45:41 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/tiled_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2024-12-06 03:59:26 +0000"
@@ -5921,6 +6005,12 @@
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2024-12-06 03:44:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_red_flower": "2024-12-09 00:45:12 +0000"
     },
     "done": true
   },
@@ -6119,6 +6209,12 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2024-12-06 03:42:09 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/diorite_cabinet": {
+    "criteria": {
+      "has_log": "2024-12-09 00:45:41 +0000"
     },
     "done": true
   },

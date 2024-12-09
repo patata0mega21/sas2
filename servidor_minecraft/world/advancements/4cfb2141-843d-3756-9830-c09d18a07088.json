@@ -3709,6 +3709,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2024-12-09 00:42:29 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/blue_kitchen_drawer": {
     "criteria": {
       "has_terracotta": "2024-12-07 03:12:17 +0000"
@@ -3808,6 +3814,12 @@
   "bigreactors:recipes/bigreactors.general/graphite_component_to_storage": {
     "criteria": {
       "graphite_has_storage": "2024-12-06 03:17:09 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/bouquet": {
+    "criteria": {
+      "has_item": "2024-12-09 00:42:29 +0000"
     },
     "done": true
   },
