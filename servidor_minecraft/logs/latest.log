@@ -744,3 +744,25 @@ java.lang.NullPointerException: null
 [09Dec2024 01:03:05.011] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
 [09Dec2024 01:12:06.434] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2080ms or 41 ticks behind
 [09Dec2024 01:19:55.316] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: _Orion_15632 has made the advancement [Plushies!]
+[09Dec2024 01:22:22.116] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[09Dec2024 01:23:46.723] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Catharina'/35258, l='ServerLevel[world]', x=-902.68, y=68.00, z=-566.73] died, message: 'Catharina was slain by Decaying Zombie'
+[09Dec2024 01:24:55.897] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[09Dec2024 01:24:55.897] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[09Dec2024 01:24:55.897] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[09Dec2024 01:24:55.897] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[09Dec2024 01:24:56.995] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:impact'
+[09Dec2024 01:24:56.995] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:stun_armor'
+[09Dec2024 01:24:56.995] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[09Dec2024 01:24:56.995] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:weight'
+[09Dec2024 01:24:56.995] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[09Dec2024 01:26:06.548] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@78f16dcf
+[09Dec2024 01:26:06.562] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: I_4M_R3D[/0:0:0:0:0:0:0:1%0:53820] logged in with entity id 47016 at (-5763.475761987483, 65.0, 1731.5874444327792)
+[09Dec2024 01:26:06.567] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: I_4M_R3D joined the game
+[09Dec2024 01:26:08.092] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of I_4M_R3D (18)
+[09Dec2024 01:26:08.093] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to I_4M_R3D
+[09Dec2024 01:26:49.790] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Creative Mode]
+[09Dec2024 01:27:35.349] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Potato'/48775, l='ServerLevel[world]', x=-918.10, y=72.38, z=-551.29]
+[09Dec2024 01:27:56.880] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Survival Mode]
+[09Dec2024 01:28:00.341] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Teleported patata0mega to I_4M_R3D]
+[09Dec2024 01:31:13.569] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: patata0mega is bleeding...
+[09Dec2024 01:32:33.326] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Creative Mode]

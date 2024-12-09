@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/dolomite_cobblestone_stairs": {
+    "criteria": {
+      "has_dolomite_cobblestone": "2024-12-09 01:29:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2024-12-07 04:02:01 +0000"
@@ -1061,6 +1067,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/dolomite": {
+    "criteria": {
+      "has_dolomite_cobblestone": "2024-12-09 01:29:01 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/appliances/diving_helmet": {
     "criteria": {
       "has_item": "2024-12-07 06:10:16 +0000"
@@ -1244,6 +1256,12 @@
   "cfm:recipes/cfm/light_blue_grill": {
     "criteria": {
       "has_iron": "2024-12-06 02:28:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/dolomite_cobblestone_wall_from_dolomite_cobblestone_stonecutting": {
+    "criteria": {
+      "has_dolomite_cobblestone": "2024-12-09 01:29:01 +0000"
     },
     "done": true
   },
@@ -1538,6 +1556,12 @@
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2024-12-06 03:44:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/dolomite_cobblestone_stairs_from_dolomite_cobblestone_stonecutting": {
+    "criteria": {
+      "has_dolomite_cobblestone": "2024-12-09 01:29:01 +0000"
     },
     "done": true
   },
@@ -2528,6 +2552,12 @@
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2024-12-07 04:23:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/dolomite_cobblestone_slab_from_dolomite_cobblestone_stonecutting": {
+    "criteria": {
+      "has_dolomite_cobblestone": "2024-12-09 01:29:01 +0000"
     },
     "done": true
   },
@@ -4116,6 +4146,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/dolomite_cobblestone_wall": {
+    "criteria": {
+      "has_dolomite_cobblestone": "2024-12-09 01:29:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-06 03:07:22 +0000"
@@ -5617,6 +5653,12 @@
   "minecraft:recipes/decorations/honeycomb_block": {
     "criteria": {
       "has_honeycomb": "2024-12-07 02:44:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/dolomite_cobblestone_slab": {
+    "criteria": {
+      "has_dolomite_cobblestone": "2024-12-09 01:29:01 +0000"
     },
     "done": true
   },
