@@ -71,4 +71,4 @@ def K():
 	if A==None:return
 	if A.split('.')[-1]=='msx':B.system(f"chmod +x {A} && ./{A}")
 	else:B.system(f"python3 {A}")
-K()
+K() 
