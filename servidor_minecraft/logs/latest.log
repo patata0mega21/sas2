@@ -913,3 +913,20 @@ java.lang.NullPointerException: null
 [09Dec2024 02:02:31.952] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ElVendeHumo5000 has made the advancement [Not Today, Thank You]
 [09Dec2024 02:03:46.429] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Creative Mode]
 [09Dec2024 02:03:56.047] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Survival Mode]
+[09Dec2024 02:04:07.463] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[09Dec2024 02:06:02.941] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: yxrall has made the advancement [Second Age]
+[09Dec2024 02:06:20.216] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Creative Mode]
+[09Dec2024 02:06:29.152] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Survival Mode]
+[09Dec2024 02:06:59.395] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: patata0mega moved wrongly!
+[09Dec2024 02:08:24.916] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ElVendeHumo5000 has made the advancement [Ice Bucket Challenge]
+[09Dec2024 02:09:23.027] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ElVendeHumo5000 has made the advancement [A True Source of Evil]
+[09Dec2024 02:10:53.048] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: I_4M_R3D lost connection: Timed out
+[09Dec2024 02:10:53.048] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: I_4M_R3D left the game
+[09Dec2024 02:10:53.048] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client I_4M_R3D
+[09Dec2024 02:11:00.353] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7e9b7f98
+[09Dec2024 02:11:00.362] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: I_4M_R3D[/0:0:0:0:0:0:0:1%0:52072] logged in with entity id 71872 at (-5802.4024386269575, 63.0, 1757.0610415161716)
+[09Dec2024 02:11:00.367] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: I_4M_R3D joined the game
+[09Dec2024 02:11:01.071] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of I_4M_R3D (18)
+[09Dec2024 02:11:01.072] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to I_4M_R3D
+[09Dec2024 02:12:39.386] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2682ms or 53 ticks behind
+[09Dec2024 02:13:13.188] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ElVendeHumo5000 has made the advancement [Diamonds!]

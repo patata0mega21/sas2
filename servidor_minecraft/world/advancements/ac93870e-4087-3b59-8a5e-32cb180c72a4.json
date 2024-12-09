@@ -107,6 +107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2024-12-09 02:11:48 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/green_kitchen_counter": {
     "criteria": {
       "has_stone": "2024-12-07 03:29:51 +0000"
@@ -236,6 +242,12 @@
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2024-12-07 02:33:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2024-12-09 02:11:48 +0000"
     },
     "done": true
   },
@@ -690,6 +702,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-09 02:11:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_pickaxe": "2024-12-06 03:13:40 +0000"
@@ -1125,6 +1143,12 @@
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-06 03:10:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-09 02:11:48 +0000"
     },
     "done": true
   },
@@ -2049,6 +2073,12 @@
   "minecraft:recipes/building_blocks/acacia_slab": {
     "criteria": {
       "has_planks": "2024-12-06 15:39:38 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:second_age": {
+    "criteria": {
+      "criteria_0": "2024-12-09 02:06:02 +0000"
     },
     "done": true
   },
@@ -3423,6 +3453,12 @@
   "betterendforge:recipes/betterendforge/thallasium_pickaxe_smithing": {
     "criteria": {
       "has_stick": "2024-12-06 03:08:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2024-12-09 02:11:48 +0000"
     },
     "done": true
   },
@@ -5625,6 +5661,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-09 02:11:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
     "criteria": {
       "has_polished_granite": "2024-12-07 03:30:23 +0000"
@@ -5688,6 +5730,12 @@
   "minecraft:recipes/decorations/ender_chest": {
     "criteria": {
       "has_ender_eye": "2024-12-06 16:17:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_dark_oak_planks": "2024-12-09 02:11:48 +0000"
     },
     "done": true
   },
@@ -6129,6 +6177,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/dark_oak_window": {
+    "criteria": {
+      "has_ingredient": "2024-12-09 02:11:48 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_birch_park_bench": {
     "criteria": {
       "has_log": "2024-12-06 16:36:56 +0000"
@@ -6210,6 +6264,12 @@
   "minecraft:recipes/travelersbackpack/magma_cube_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2024-12-06 16:09:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-09 02:11:48 +0000"
     },
     "done": true
   },
@@ -6474,6 +6534,12 @@
   "cfm:recipes/cfm/diorite_cabinet": {
     "criteria": {
       "has_log": "2024-12-09 00:45:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2024-12-09 02:11:48 +0000"
     },
     "done": true
   },
