@@ -3720,6 +3720,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_spruce_blinds": {
+    "criteria": {
+      "has_log": "2024-12-09 02:20:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2024-12-06 03:57:47 +0000"
@@ -5582,6 +5588,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_spruce_upgraded_fence": {
+    "criteria": {
+      "has_log": "2024-12-09 02:20:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_from_blasting": {
     "criteria": {
       "has_redstone_ore": "2024-12-09 00:54:19 +0000"
@@ -6311,6 +6323,12 @@
   "minecraft:recipes/travelersbackpack/netherite_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2024-12-06 14:18:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-09 02:20:09 +0000"
     },
     "done": true
   },
