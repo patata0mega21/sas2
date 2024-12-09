@@ -777,3 +777,5 @@ java.lang.NullPointerException: null
 [09Dec2024 15:29:51.728] [Worker-Main-102/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
 [09Dec2024 15:29:51.733] [Worker-Main-102/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
 [09Dec2024 15:29:58.756] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: yxrall moved too quickly! 2.2208080744132417,-5.600155283929396,-8.194840459284023
+[09Dec2024 15:46:47.489] [Worker-Main-102/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[09Dec2024 15:46:47.490] [Worker-Main-102/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
