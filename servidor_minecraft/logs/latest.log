@@ -699,3 +699,19 @@ java.lang.NullPointerException: null
 [09Dec2024 00:28:47.299] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to I_4M_R3D
 [09Dec2024 00:28:47.350] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of _Orion_15632 (18)
 [09Dec2024 00:28:47.350] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to _Orion_15632
+[09Dec2024 00:31:14.939] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: _Orion_15632 lost connection: Timed out
+[09Dec2024 00:31:14.940] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: _Orion_15632 left the game
+[09Dec2024 00:31:14.943] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client _Orion_15632
+[09Dec2024 00:31:15.010] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[09Dec2024 00:33:17.688] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@601c06f3
+[09Dec2024 00:33:17.700] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: _Orion_15632[/0:0:0:0:0:0:0:1%0:38698] logged in with entity id 8181 at (-889.459529500097, 15.0, -524.3000000119209)
+[09Dec2024 00:33:17.705] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: _Orion_15632 joined the game
+[09Dec2024 00:33:19.594] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of _Orion_15632 (18)
+[09Dec2024 00:33:19.595] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to _Orion_15632
+[09Dec2024 00:33:23.421] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@22bc2dd4
+[09Dec2024 00:34:29.338] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Creative Mode]
+[09Dec2024 00:35:00.287] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Survival Mode]
+[09Dec2024 00:35:03.940] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Teleported patata0mega to _Orion_15632]
+[09Dec2024 00:35:35.039] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Teleported patata0mega to I_4M_R3D]
+[09Dec2024 00:36:15.241] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Creative Mode]
+[09Dec2024 00:36:44.384] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Survival Mode]

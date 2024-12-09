@@ -521,6 +521,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/fancy_diorite_bricks_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-09 00:35:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/netherite_block": {
     "criteria": {
       "has_netherite_ingot": "2024-12-08 20:59:51 +0000"
@@ -549,6 +555,12 @@
   "aquaculture:recipes/tools/iron_fishing_rod": {
     "criteria": {
       "has_iron": "2024-12-06 02:31:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2024-12-09 00:28:47 +0000"
     },
     "done": true
   },
@@ -834,6 +846,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/mossy_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-09 00:35:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_bed": {
     "criteria": {
       "has_purple_wool": "2024-12-06 15:53:10 +0000"
@@ -867,6 +885,12 @@
   "minecraft:recipes/tools/netherite_shovel_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-12-08 20:59:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-09 00:35:04 +0000"
     },
     "done": true
   },
@@ -1176,6 +1200,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/overgrown_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-09 00:35:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/iron_golem_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2024-12-06 14:17:20 +0000"
@@ -1209,6 +1239,12 @@
   "minecraft:recipes/travelersbackpack/pumpkin_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2024-12-06 14:17:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/paved_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-09 00:35:04 +0000"
     },
     "done": true
   },
@@ -1428,6 +1464,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_stone": "2024-12-09 00:35:04 +0000"
+    },
+    "done": true
+  },
   "endergetic:up_up_and_away": {
     "criteria": {
       "tamed": "2024-12-07 03:41:26 +0000"
@@ -1467,6 +1509,12 @@
   "cfm:recipes/cfm/stripped_dark_oak_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2024-12-09 00:20:23 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_black": {
+    "criteria": {
+      "has_black_wool": "2024-12-09 00:28:47 +0000"
     },
     "done": true
   },
@@ -1770,6 +1818,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/diorite_pillar_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-09 00:35:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/blaze_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2024-12-06 14:17:20 +0000"
@@ -1797,6 +1851,12 @@
   "cfm:recipes/cfm/acacia_coffee_table": {
     "criteria": {
       "has_planks": "2024-12-06 16:11:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2024-12-09 00:35:04 +0000"
     },
     "done": true
   },
@@ -1851,6 +1911,12 @@
   "create:recipes/create.base/crafting/kinetics/purple_seat": {
     "criteria": {
       "has_wool": "2024-12-06 15:53:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/diorite_pillar": {
+    "criteria": {
+      "has_diorite": "2024-12-09 00:35:04 +0000"
     },
     "done": true
   },
@@ -1911,6 +1977,12 @@
   "awesomedungeon:mushroom_abandonned/find_normal": {
     "criteria": {
       "requirement": "2024-12-07 07:16:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-09 00:35:04 +0000"
     },
     "done": true
   },
@@ -2049,6 +2121,12 @@
   "cfm:recipes/cfm/stripped_jungle_upgraded_fence": {
     "criteria": {
       "has_log": "2024-12-07 02:20:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/smelting/dolomite": {
+    "criteria": {
+      "has_item": "2024-12-09 00:35:04 +0000"
     },
     "done": true
   },
@@ -2388,6 +2466,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2024-12-09 00:28:47 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/gray_seat": {
     "criteria": {
       "has_wool": "2024-12-06 15:53:10 +0000"
@@ -2481,6 +2565,12 @@
   "cfm:recipes/cfm/oak_table": {
     "criteria": {
       "has_planks": "2024-12-06 03:57:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2024-12-09 00:35:04 +0000"
     },
     "done": true
   },
@@ -2772,6 +2862,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/black_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-09 00:28:47 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/staff_of_life": {
     "criteria": {
       "has_item": "2024-12-06 02:19:59 +0000"
@@ -2799,6 +2895,12 @@
   "minecraft:recipes/travelersbackpack/ghast_smithing_netherite": {
     "criteria": {
       "has_netherite_tier_upgrade": "2024-12-07 05:07:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/layered_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-09 00:35:04 +0000"
     },
     "done": true
   },
@@ -2901,6 +3003,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2024-12-06 02:31:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/diorite_bricks_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-09 00:35:04 +0000"
     },
     "done": true
   },
@@ -3075,6 +3183,12 @@
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-07 07:02:36 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_black": {
+    "criteria": {
+      "has_black_wool": "2024-12-09 00:28:47 +0000"
     },
     "done": true
   },
@@ -3755,6 +3869,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/diorite_cobblestone_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-09 00:35:04 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_oak_park_bench": {
     "criteria": {
       "has_log": "2024-12-07 06:10:35 +0000"
@@ -4073,6 +4193,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2024-12-09 00:28:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2024-12-06 02:32:47 +0000"
@@ -4205,6 +4331,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-09 00:35:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/standard_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2024-12-06 14:13:30 +0000"
@@ -4256,6 +4388,12 @@
   "minecraft:recipes/travelersbackpack/fox_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2024-12-06 14:17:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2024-12-09 00:35:04 +0000"
     },
     "done": true
   },
@@ -4775,6 +4913,12 @@
   "bigreactors:recipes/bigreactors.general/reprocessor/fluidinjector": {
     "criteria": {
       "has_item2": "2024-12-07 07:02:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-09 00:35:04 +0000"
     },
     "done": true
   },
@@ -5603,6 +5747,12 @@
   "minecraft:adventure/throw_trident": {
     "criteria": {
       "shot_trident": "2024-12-07 03:49:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2024-12-09 00:35:04 +0000"
     },
     "done": true
   },
