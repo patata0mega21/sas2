@@ -7475,3 +7475,10 @@ java.lang.NullPointerException: null
 [09Dec2024 14:44:20.705] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <patata0mega> como en una mas
 [09Dec2024 14:44:53.408] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [09Dec2024 14:44:53.419] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[09Dec2024 14:48:37.091] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <yxrall> tengo 2 lingotes de dark metal
+[09Dec2024 14:49:05.402] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <patata0mega> tengo armadura completa y no me dejan usarla
+[09Dec2024 14:49:44.937] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <patata0mega> solo el casco que me lo pille en una estructura
+[09Dec2024 14:49:53.540] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[09Dec2024 14:49:53.550] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[09Dec2024 14:54:53.348] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[09Dec2024 14:54:53.358] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
