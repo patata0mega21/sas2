@@ -7570,3 +7570,12 @@ java.lang.NullPointerException: null
 [09Dec2024 15:24:21.479] [Worker-Main-170/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
 [09Dec2024 15:24:58.766] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [09Dec2024 15:24:58.777] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[09Dec2024 15:29:51.666] [Worker-Main-102/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[09Dec2024 15:29:51.667] [Worker-Main-102/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[09Dec2024 15:29:51.728] [Worker-Main-102/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[09Dec2024 15:29:51.733] [Worker-Main-102/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[09Dec2024 15:29:58.710] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[09Dec2024 15:29:58.720] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[09Dec2024 15:29:58.756] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: yxrall moved too quickly! 2.2208080744132417,-5.600155283929396,-8.194840459284023
+[09Dec2024 15:34:58.620] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[09Dec2024 15:34:58.638] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
