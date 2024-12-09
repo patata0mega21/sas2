@@ -437,9 +437,21 @@
     },
     "done": true
   },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2024-12-09 15:53:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2024-12-06 03:42:08 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_foundry": {
+    "criteria": {
+      "location0": "2024-12-09 15:53:38 +0000"
     },
     "done": true
   },
@@ -4244,6 +4256,7 @@
       "minecraft:hoglin": "2024-12-06 16:41:08 +0000",
       "minecraft:vindicator": "2024-12-06 14:54:41 +0000",
       "minecraft:spider": "2024-12-06 04:41:48 +0000",
+      "minecraft:piglin_brute": "2024-12-09 15:54:46 +0000",
       "minecraft:creeper": "2024-12-06 15:03:01 +0000",
       "minecraft:evoker": "2024-12-06 15:51:01 +0000",
       "minecraft:slime": "2024-12-06 16:56:49 +0000",
@@ -4929,6 +4942,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_glazed_terracotta": {
+    "criteria": {
+      "has_black_terracotta": "2024-12-09 15:54:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_terracotta": {
     "criteria": {
       "has_terracotta": "2024-12-07 03:29:51 +0000"
@@ -4991,6 +5010,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:jungle_edge": "2024-12-09 15:51:47 +0000",
       "minecraft:cold_ocean": "2024-12-09 15:16:07 +0000",
       "minecraft:snowy_mountains": "2024-12-06 03:10:13 +0000",
       "minecraft:forest": "2024-12-06 14:50:34 +0000",
@@ -5002,7 +5022,9 @@
       "minecraft:taiga_hills": "2024-12-07 03:10:48 +0000",
       "minecraft:desert": "2024-12-07 02:18:25 +0000",
       "minecraft:frozen_river": "2024-12-06 03:09:21 +0000",
+      "minecraft:jungle": "2024-12-09 15:51:50 +0000",
       "minecraft:birch_forest": "2024-12-07 03:10:41 +0000",
+      "minecraft:jungle_hills": "2024-12-09 15:52:07 +0000",
       "minecraft:snowy_beach": "2024-12-06 14:48:36 +0000",
       "minecraft:warm_ocean": "2024-12-06 15:00:13 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-06 14:50:10 +0000",
