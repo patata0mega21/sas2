@@ -155,6 +155,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/dark_oak_desk": {
+    "criteria": {
+      "has_log": "2024-12-09 02:28:39 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/pink_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-06 03:02:42 +0000"
@@ -188,6 +194,12 @@
   "bigreactors:recipes/bigreactors.reactor/reactor/reinforced/passivefluidport_forge": {
     "criteria": {
       "has_item2": "2024-12-07 03:15:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2024-12-09 02:28:39 +0000"
     },
     "done": true
   },
@@ -497,6 +509,12 @@
     },
     "done": false
   },
+  "cfm:recipes/cfm/stripped_dark_oak_chair": {
+    "criteria": {
+      "has_planks": "2024-12-09 02:28:39 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/tools/iron_fishing_rod": {
     "criteria": {
       "has_iron": "2024-12-06 02:37:57 +0000"
@@ -506,6 +524,12 @@
   "minecraft:recipes/decorations/light_blue_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2024-12-06 04:04:00 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_dark_oak_coffee_table": {
+    "criteria": {
+      "has_planks": "2024-12-09 02:28:39 +0000"
     },
     "done": true
   },
@@ -938,6 +962,12 @@
   "cfm:recipes/cfm/stripped_acacia_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2024-12-07 03:14:38 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dark_oak_desk_cabinet": {
+    "criteria": {
+      "has_log": "2024-12-09 02:28:39 +0000"
     },
     "done": true
   },
@@ -1697,6 +1727,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_dark_oak_park_bench": {
+    "criteria": {
+      "has_log": "2024-12-09 02:28:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2024-12-06 04:25:34 +0000"
@@ -1724,6 +1760,12 @@
   "create:recipes/create.palettes/diorite_pillar": {
     "criteria": {
       "has_diorite": "2024-12-06 04:00:55 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_dark_oak_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-09 02:28:39 +0000"
     },
     "done": true
   },
@@ -1772,6 +1814,12 @@
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2024-12-07 03:27:13 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dark_oak_cabinet": {
+    "criteria": {
+      "has_log": "2024-12-09 02:28:39 +0000"
     },
     "done": true
   },
@@ -1910,6 +1958,12 @@
   "aquaculture:recipes/tools/diamond_fishing_rod": {
     "criteria": {
       "has_diamond": "2024-12-06 02:36:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-09 02:28:39 +0000"
     },
     "done": true
   },
@@ -2363,6 +2417,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/dark_oak_chair": {
+    "criteria": {
+      "has_log": "2024-12-09 02:28:39 +0000"
+    },
+    "done": true
+  },
   "betterendforge:recipes/betterendforge/terminite_axe_smithing": {
     "criteria": {
       "has_stick": "2024-12-06 02:39:05 +0000"
@@ -2414,6 +2474,12 @@
   "minecraft:recipes/food/cooked_rabbit": {
     "criteria": {
       "has_rabbit": "2024-12-07 01:33:41 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_dark_oak_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-09 02:28:39 +0000"
     },
     "done": true
   },
@@ -2648,6 +2714,12 @@
   "cfm:recipes/cfm/yellow_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-06 03:02:42 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dark_oak_park_bench": {
+    "criteria": {
+      "has_log": "2024-12-09 02:28:39 +0000"
     },
     "done": true
   },
@@ -3077,6 +3149,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_dark_oak_kitchen_counter": {
+    "criteria": {
+      "has_log": "2024-12-09 02:28:39 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/granite_pillar_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-07 03:16:16 +0000"
@@ -3173,6 +3251,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/dark_oak_crate": {
+    "criteria": {
+      "has_log": "2024-12-09 02:28:39 +0000"
+    },
+    "done": true
+  },
   "betterendforge:recipes/betterendforge/leather_to_stripes": {
     "criteria": {
       "has_leather": "2024-12-06 03:12:32 +0000"
@@ -3236,6 +3320,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-06 04:00:12 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_dark_oak_table": {
+    "criteria": {
+      "has_planks": "2024-12-09 02:28:39 +0000"
     },
     "done": true
   },
@@ -3513,6 +3603,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/dark_oak_upgraded_gate": {
+    "criteria": {
+      "has_log": "2024-12-09 02:28:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_blue_flower": "2024-12-07 05:54:44 +0000"
@@ -3681,6 +3777,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/dark_oak_table": {
+    "criteria": {
+      "has_log": "2024-12-09 02:28:39 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_oak_kitchen_counter": {
     "criteria": {
       "has_log": "2024-12-09 00:31:19 +0000"
@@ -3696,6 +3798,18 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2024-12-06 02:37:57 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dark_oak_blinds": {
+    "criteria": {
+      "has_log": "2024-12-09 02:28:39 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_dark_oak_cabinet": {
+    "criteria": {
+      "has_log": "2024-12-09 02:28:39 +0000"
     },
     "done": true
   },
@@ -3988,6 +4102,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_dark_oak_crate": {
+    "criteria": {
+      "has_planks": "2024-12-09 02:28:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2024-12-06 03:12:32 +0000"
@@ -4159,6 +4279,12 @@
   "cfm:recipes/cfm/stripped_dark_oak_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2024-12-07 03:14:38 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dark_oak_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2024-12-09 02:28:39 +0000"
     },
     "done": true
   },
@@ -4507,6 +4633,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/dark_oak_upgraded_fence": {
+    "criteria": {
+      "has_log": "2024-12-09 02:28:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2024-12-06 04:04:00 +0000"
@@ -4552,6 +4684,12 @@
   "mowziesmobs:kill_foliaath": {
     "criteria": {
       "foliaath": "2024-12-07 03:43:21 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_dark_oak_desk": {
+    "criteria": {
+      "has_planks": "2024-12-09 02:28:39 +0000"
     },
     "done": true
   },
@@ -4636,6 +4774,12 @@
   "minecraft:recipes/travelersbackpack/diamond_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2024-12-07 04:43:55 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dark_oak_coffee_table": {
+    "criteria": {
+      "has_log": "2024-12-09 02:28:39 +0000"
     },
     "done": true
   },
@@ -5056,6 +5200,12 @@
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
       "has_redstone_torch": "2024-12-07 02:25:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dark_oak_kitchen_counter": {
+    "criteria": {
+      "has_log": "2024-12-09 02:28:39 +0000"
     },
     "done": true
   },

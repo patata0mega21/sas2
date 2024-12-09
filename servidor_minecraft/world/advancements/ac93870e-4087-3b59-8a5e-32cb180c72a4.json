@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/appliances/copper_backtank": {
+    "criteria": {
+      "has_item": "2024-12-09 02:27:50 +0000"
+    },
+    "done": true
+  },
   "tconstruct:tools/materials_and_you": {
     "criteria": {
       "crafted_book": "2024-12-06 03:08:10 +0000"
@@ -128,6 +134,12 @@
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_the_recipe": "2024-12-06 03:40:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting": {
+    "criteria": {
+      "has_gold_ore": "2024-12-09 02:24:32 +0000"
     },
     "done": true
   },
@@ -606,6 +618,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/materials/copper_block_from_compacting": {
+    "criteria": {
+      "has_item": "2024-12-09 02:27:50 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/tools/iron_fishing_rod": {
     "criteria": {
       "has_iron": "2024-12-06 03:12:41 +0000"
@@ -867,6 +885,12 @@
   "betterendforge:recipes/betterendforge/thallasium_hammer_smithing": {
     "criteria": {
       "has_stick": "2024-12-06 03:08:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-09 02:29:47 +0000"
     },
     "done": true
   },
@@ -1260,6 +1284,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/appliances/diving_helmet": {
+    "criteria": {
+      "has_item": "2024-12-09 02:27:50 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/granite_table": {
     "criteria": {
       "has_log": "2024-12-07 03:30:23 +0000"
@@ -1572,6 +1602,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/hose_pulley": {
+    "criteria": {
+      "has_item": "2024-12-09 02:27:50 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_light_gray": {
     "criteria": {
       "has_light_gray_wool": "2024-12-07 02:21:35 +0000"
@@ -1707,6 +1743,12 @@
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-06 03:52:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/fluid_valve": {
+    "criteria": {
+      "has_item": "2024-12-09 02:27:50 +0000"
     },
     "done": true
   },
@@ -2292,6 +2334,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/tools/armor/building/travelers_goggles": {
+    "criteria": {
+      "has_item": "2024-12-09 02:27:50 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/layered_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-07 03:34:47 +0000"
@@ -2754,6 +2802,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/tools/armor/building/travelers_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-09 02:27:50 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/oak_desk": {
     "criteria": {
       "has_planks": "2024-12-06 14:43:49 +0000"
@@ -2805,6 +2859,12 @@
   "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2024-12-07 02:33:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/copper_valve_handle": {
+    "criteria": {
+      "has_item": "2024-12-09 02:27:50 +0000"
     },
     "done": true
   },
@@ -3954,6 +4014,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/tools/armor/building/travelers_pants": {
+    "criteria": {
+      "has_item": "2024-12-09 02:27:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2024-12-06 03:12:41 +0000"
@@ -4293,6 +4359,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/copper_valve_handle_from_others": {
+    "criteria": {
+      "has_item": "2024-12-09 02:27:50 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/framed_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2024-12-06 03:59:26 +0000"
@@ -4320,6 +4392,12 @@
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2024-12-06 03:08:10 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/copper_can": {
+    "criteria": {
+      "has_item": "2024-12-09 02:27:50 +0000"
     },
     "done": true
   },
@@ -4440,6 +4518,12 @@
   "cfm:recipes/cfm/stripped_dark_oak_cabinet": {
     "criteria": {
       "has_log": "2024-12-06 14:53:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-09 02:28:54 +0000"
     },
     "done": true
   },
@@ -4775,6 +4859,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/appliances/diving_boots": {
+    "criteria": {
+      "has_item": "2024-12-09 02:27:50 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_acacia_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2024-12-06 04:37:02 +0000"
@@ -4877,6 +4967,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/smart_fluid_pipe": {
+    "criteria": {
+      "has_item": "2024-12-09 02:27:50 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/light_blue_cooler": {
     "criteria": {
       "has_chest": "2024-12-06 03:39:36 +0000"
@@ -4907,6 +5003,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/materials/copper_nugget_from_decompacting": {
+    "criteria": {
+      "has_item": "2024-12-09 02:27:50 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_acacia_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-06 03:39:36 +0000"
@@ -4922,6 +5024,12 @@
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2024-12-07 02:33:55 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/tools/armor/building/travelers_boots": {
+    "criteria": {
+      "has_item": "2024-12-09 02:27:50 +0000"
     },
     "done": true
   },
@@ -5535,6 +5643,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/mechanical_pump": {
+    "criteria": {
+      "has_item": "2024-12-09 02:27:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-12-06 03:10:44 +0000"
@@ -5652,6 +5766,12 @@
   "create:recipes/create.palettes/mossy_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-07 04:49:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-09 02:28:54 +0000"
     },
     "done": true
   },
@@ -5931,6 +6051,12 @@
     },
     "done": true
   },
+  "bigreactors:recipes/bigreactors.general/fluidizer/controller": {
+    "criteria": {
+      "has_item2": "2024-12-09 02:28:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2024-12-06 04:45:01 +0000"
@@ -5952,6 +6078,12 @@
   "create:recipes/create.base/crafting/schematics/schematic_and_quill": {
     "criteria": {
       "has_item": "2024-12-06 03:20:31 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/throwball/glow_ball": {
+    "criteria": {
+      "has_item": "2024-12-09 02:28:54 +0000"
     },
     "done": true
   },
@@ -6006,6 +6138,12 @@
   "cfm:recipes/cfm/birch_kitchen_counter": {
     "criteria": {
       "has_log": "2024-12-06 16:36:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot": {
+    "criteria": {
+      "has_gold_ore": "2024-12-09 02:24:32 +0000"
     },
     "done": true
   },
@@ -6297,6 +6435,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/materials/copper_casing": {
+    "criteria": {
+      "has_item": "2024-12-09 02:27:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2024-12-06 03:12:41 +0000"
@@ -6306,6 +6450,12 @@
   "minecraft:recipes/travelersbackpack/horse_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2024-12-06 04:03:16 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/throwball/efln_ball": {
+    "criteria": {
+      "has_item": "2024-12-09 02:28:54 +0000"
     },
     "done": true
   },
@@ -6558,6 +6708,12 @@
   "cfm:recipes/cfm/light_blue_picket_gate": {
     "criteria": {
       "has_gate": "2024-12-06 03:20:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/fluid_pipe": {
+    "criteria": {
+      "has_item": "2024-12-09 02:27:50 +0000"
     },
     "done": true
   },

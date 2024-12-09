@@ -1515,6 +1515,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-12-09 02:29:46 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/red_grill": {
     "criteria": {
       "has_iron": "2024-12-09 01:51:48 +0000"
@@ -1608,6 +1614,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-09 01:58:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-09 02:24:52 +0000"
     },
     "done": true
   },
