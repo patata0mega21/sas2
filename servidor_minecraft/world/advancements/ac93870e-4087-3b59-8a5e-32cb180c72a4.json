@@ -882,6 +882,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/general/common/materials/copper_ingot_smelting": {
+    "criteria": {
+      "has_item": "2024-12-09 00:25:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_chestplate_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-12-06 16:41:23 +0000"
@@ -4952,6 +4958,12 @@
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-07 03:34:47 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/common/materials/copper_ingot_blasting": {
+    "criteria": {
+      "has_item": "2024-12-09 00:25:39 +0000"
     },
     "done": true
   },

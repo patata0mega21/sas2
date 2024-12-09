@@ -588,6 +588,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_spruce_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2024-12-09 00:20:23 +0000"
+    },
+    "done": true
+  },
   "bigreactors:recipes/bigreactors.reactor/reactor/basic/controlrod": {
     "criteria": {
       "has_item": "2024-12-07 03:36:36 +0000"
@@ -846,6 +852,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_oak_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2024-12-09 00:20:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-06 16:11:51 +0000"
@@ -936,6 +948,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/cyan_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2024-12-09 00:20:23 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/granite_coffee_table": {
     "criteria": {
       "has_planks": "2024-12-06 03:57:47 +0000"
@@ -972,6 +990,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/green_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2024-12-09 00:20:23 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/birch_desk_cabinet": {
     "criteria": {
       "has_log": "2024-12-07 06:10:23 +0000"
@@ -1005,6 +1029,12 @@
   "create:recipes/create.palettes/granite_pillar": {
     "criteria": {
       "has_granite": "2024-12-06 03:57:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_acacia_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2024-12-09 00:20:23 +0000"
     },
     "done": true
   },
@@ -1128,6 +1158,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_birch_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2024-12-09 00:20:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2024-12-06 15:58:02 +0000"
@@ -1161,6 +1197,12 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2024-12-06 02:27:38 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_crimson_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2024-12-09 00:20:23 +0000"
     },
     "done": true
   },
@@ -1260,6 +1302,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/warped_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2024-12-09 00:20:23 +0000"
+    },
+    "done": true
+  },
   "evilcraft:root": {
     "criteria": {
       "criteria_0": "2024-12-06 02:29:40 +0000"
@@ -1326,6 +1374,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/jungle_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2024-12-09 00:20:23 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/purple_cooler": {
     "criteria": {
       "has_terracotta": "2024-12-06 16:14:13 +0000"
@@ -1368,6 +1422,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_spruce_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2024-12-09 00:20:23 +0000"
+    },
+    "done": true
+  },
   "endergetic:up_up_and_away": {
     "criteria": {
       "tamed": "2024-12-07 03:41:26 +0000"
@@ -1401,6 +1461,12 @@
   "minecraft:recipes/travelersbackpack/bee_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2024-12-06 14:13:30 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_dark_oak_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2024-12-09 00:20:23 +0000"
     },
     "done": true
   },
@@ -2226,6 +2292,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_warped_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2024-12-09 00:20:23 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_birch_desk_cabinet": {
     "criteria": {
       "has_planks": "2024-12-07 06:10:23 +0000"
@@ -2502,6 +2574,18 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/lime_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2024-12-09 00:20:23 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/warped_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2024-12-09 00:20:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2024-12-08 21:34:18 +0000"
@@ -2598,6 +2682,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/light_gray_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2024-12-09 00:20:23 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/acacia_kitchen_drawer": {
     "criteria": {
       "has_planks": "2024-12-06 16:11:51 +0000"
@@ -2625,6 +2715,12 @@
   "tconstruct:recipes/tconstruct/world/common/slime/sky/congealed": {
     "criteria": {
       "has_item": "2024-12-06 15:58:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/brown_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2024-12-09 00:20:23 +0000"
     },
     "done": true
   },
@@ -2964,6 +3060,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_birch_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2024-12-09 00:20:23 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/birch_desk": {
     "criteria": {
       "has_log": "2024-12-07 06:10:23 +0000"
@@ -3096,6 +3198,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/crimson_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2024-12-09 00:20:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/end_smithing_netherite": {
     "criteria": {
       "has_netherite_tier_upgrade": "2024-12-07 05:07:23 +0000"
@@ -3147,6 +3255,12 @@
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2024-12-06 15:50:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/gray_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2024-12-09 00:20:23 +0000"
     },
     "done": true
   },
@@ -3231,6 +3345,12 @@
   "cfm:recipes/cfm/black_kitchen_sink": {
     "criteria": {
       "has_top": "2024-12-06 15:53:00 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/jungle_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2024-12-09 00:20:23 +0000"
     },
     "done": true
   },
@@ -3563,6 +3683,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/blue_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2024-12-09 00:20:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
     "criteria": {
       "has_polished_diorite": "2024-12-08 21:25:45 +0000"
@@ -3656,6 +3782,12 @@
   "cfm:recipes/cfm/birch_table": {
     "criteria": {
       "has_log": "2024-12-07 06:10:23 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_crimson_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2024-12-09 00:20:23 +0000"
     },
     "done": true
   },
@@ -3764,6 +3896,12 @@
   "minecraft:recipes/travelersbackpack/bee_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2024-12-06 14:18:33 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/crimson_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2024-12-09 00:20:23 +0000"
     },
     "done": true
   },
@@ -4226,6 +4364,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_acacia_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2024-12-09 00:20:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2024-12-06 02:31:15 +0000"
@@ -4412,6 +4556,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/light_blue_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2024-12-09 00:20:23 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/redstone/common/slime/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2024-12-06 15:58:01 +0000"
@@ -4472,6 +4622,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_dark_oak_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2024-12-09 00:20:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_grill_cooking": {
     "criteria": {
       "has_cod": "2024-12-06 14:34:12 +0000"
@@ -4508,6 +4664,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/yellow_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2024-12-09 00:20:23 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/birch_kitchen_sink_dark": {
     "criteria": {
       "has_bottom": "2024-12-07 06:11:19 +0000"
@@ -4541,6 +4703,12 @@
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2024-12-06 02:24:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/red_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2024-12-09 00:20:23 +0000"
     },
     "done": true
   },
@@ -4934,6 +5102,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/orange_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2024-12-09 00:20:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2024-12-06 02:25:22 +0000"
@@ -4961,6 +5135,12 @@
   "minecraft:recipes/redstone/acacia_door": {
     "criteria": {
       "has_planks": "2024-12-06 16:11:51 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_warped_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2024-12-09 00:20:23 +0000"
     },
     "done": true
   },
@@ -5240,6 +5420,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_oak_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2024-12-09 00:20:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/pig_smithing_netherite": {
     "criteria": {
       "has_netherite_tier_upgrade": "2024-12-07 05:07:23 +0000"
@@ -5303,6 +5489,12 @@
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2024-12-07 01:41:21 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/magenta_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2024-12-09 00:20:23 +0000"
     },
     "done": true
   },
@@ -5771,6 +5963,12 @@
   "minecraft:nether/netherite_armor": {
     "criteria": {
       "netherite_armor": "2024-12-08 20:33:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/pink_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2024-12-09 00:20:23 +0000"
     },
     "done": true
   },
