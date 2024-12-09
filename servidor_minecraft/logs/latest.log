@@ -684,3 +684,17 @@ java.lang.NullPointerException: null
 [09Dec2024 13:34:31.740] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Successfully filled 286 blocks]
 [09Dec2024 14:17:55.546] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Survival Mode]
 [09Dec2024 14:18:28.533] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Creative Mode]
+[09Dec2024 14:42:46.501] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3ba8c53a
+[09Dec2024 14:42:46.519] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: yxrall[/0:0:0:0:0:0:0:1%0:40040] logged in with entity id 14572 at (-822.7944602279562, 10.0, -785.9272783092782)
+[09Dec2024 14:42:46.527] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: yxrall joined the game
+[09Dec2024 14:42:46.767] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@13f209c9
+[09Dec2024 14:42:47.719] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of yxrall (18)
+[09Dec2024 14:42:47.720] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to yxrall
+[09Dec2024 14:43:15.496] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <yxrall> hola tio
+[09Dec2024 14:43:18.305] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <patata0mega> hola
+[09Dec2024 14:43:47.839] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <patata0mega> me meti a contruir despues voy a ver lo del voice chat
+[09Dec2024 14:44:00.153] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <patata0mega> y apago asta la noche
+[09Dec2024 14:44:02.939] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <yxrall> wenu
+[09Dec2024 14:44:10.491] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <yxrall> como eso
+[09Dec2024 14:44:14.244] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <yxrall> apagaras a que hora?
+[09Dec2024 14:44:20.705] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <patata0mega> como en una mas
