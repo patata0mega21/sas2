@@ -1223,6 +1223,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/weathered_limestone_cobblestone_slab": {
+    "criteria": {
+      "has_weathered_limestone_cobblestone": "2024-12-09 01:12:59 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/white_kitchen_counter": {
     "criteria": {
       "has_stone": "2024-12-07 03:12:17 +0000"
@@ -1334,6 +1340,12 @@
   "create:recipes/create.base/crafting/kinetics/hose_pulley": {
     "criteria": {
       "has_item": "2024-12-07 06:10:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/weathered_limestone_cobblestone_slab_from_weathered_limestone_cobblestone_stonecutting": {
+    "criteria": {
+      "has_weathered_limestone_cobblestone": "2024-12-09 01:12:59 +0000"
     },
     "done": true
   },
@@ -2045,6 +2057,12 @@
     },
     "done": true
   },
+  "a_man_with_plushies:first_plush_box": {
+    "criteria": {
+      "first_plush_box": "2024-12-09 01:19:55 +0000"
+    },
+    "done": true
+  },
   "create:root": {
     "criteria": {
       "0": "2024-12-06 02:25:20 +0000"
@@ -2054,6 +2072,12 @@
   "naturescompass:natures_compass_log": {
     "criteria": {
       "has_log": "2024-12-06 02:27:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/weathered_limestone_cobblestone_stairs_from_weathered_limestone_cobblestone_stonecutting": {
+    "criteria": {
+      "has_weathered_limestone_cobblestone": "2024-12-09 01:12:59 +0000"
     },
     "done": true
   },
@@ -2732,6 +2756,12 @@
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-07 04:22:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/weathered_limestone_cobblestone_wall_from_weathered_limestone_cobblestone_stonecutting": {
+    "criteria": {
+      "has_weathered_limestone_cobblestone": "2024-12-09 01:12:59 +0000"
     },
     "done": true
   },
@@ -3775,6 +3805,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-09 01:11:27 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/purple_kitchen_drawer": {
     "criteria": {
       "has_terracotta": "2024-12-07 03:12:17 +0000"
@@ -4005,6 +4041,12 @@
   "cfm:recipes/cfm/jungle_kitchen_counter": {
     "criteria": {
       "has_log": "2024-12-07 01:33:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/weathered_limestone": {
+    "criteria": {
+      "has_weathered_limestone_cobblestone": "2024-12-09 01:12:59 +0000"
     },
     "done": true
   },
@@ -4476,6 +4518,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/weathered_limestone_cobblestone_wall": {
+    "criteria": {
+      "has_weathered_limestone_cobblestone": "2024-12-09 01:12:59 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/green_cooler": {
     "criteria": {
       "has_chest": "2024-12-07 05:24:25 +0000"
@@ -4768,6 +4816,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/weathered_limestone_cobblestone_stairs": {
+    "criteria": {
+      "has_weathered_limestone_cobblestone": "2024-12-09 01:12:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2024-12-07 05:36:41 +0000"
@@ -4849,6 +4903,12 @@
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2024-12-06 03:44:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-09 01:11:27 +0000"
     },
     "done": true
   },
@@ -5104,6 +5164,12 @@
     },
     "done": true
   },
+  "bigreactors:recipes/bigreactors.general/fluidizer/controller": {
+    "criteria": {
+      "has_item2": "2024-12-09 01:11:27 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/magenta_kitchen_sink": {
     "criteria": {
       "has_bucket": "2024-12-07 05:33:20 +0000"
@@ -5113,6 +5179,12 @@
   "cfm:recipes/cfm/stripped_birch_kitchen_drawer": {
     "criteria": {
       "has_log": "2024-12-07 02:21:19 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/throwball/glow_ball": {
+    "criteria": {
+      "has_item": "2024-12-09 01:11:27 +0000"
     },
     "done": true
   },
@@ -5437,6 +5509,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2024-12-06 02:28:46 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/throwball/efln_ball": {
+    "criteria": {
+      "has_item": "2024-12-09 01:11:27 +0000"
     },
     "done": true
   },

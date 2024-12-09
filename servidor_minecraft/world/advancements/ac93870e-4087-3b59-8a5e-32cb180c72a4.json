@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/dolomite_cobblestone_stairs": {
+    "criteria": {
+      "has_dolomite_cobblestone": "2024-12-09 01:10:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2024-12-06 03:42:08 +0000"
@@ -143,9 +149,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting": {
+    "criteria": {
+      "has_iron_ore": "2024-12-09 01:08:19 +0000"
+    },
+    "done": true
+  },
   "bigreactors:recipes/bigreactors.turbine/turbine/reinforced/passivetap_fe": {
     "criteria": {
       "has_item2": "2024-12-06 15:04:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/gabbro_cobblestone_stairs": {
+    "criteria": {
+      "has_gabbro_cobblestone": "2024-12-09 01:08:19 +0000"
     },
     "done": true
   },
@@ -260,6 +278,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2024-12-06 03:12:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/gabbro_cobblestone_wall": {
+    "criteria": {
+      "has_gabbro_cobblestone": "2024-12-09 01:08:19 +0000"
     },
     "done": true
   },
@@ -1194,6 +1218,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/dolomite": {
+    "criteria": {
+      "has_dolomite_cobblestone": "2024-12-09 01:10:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/iron_golem_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2024-12-06 16:09:01 +0000"
@@ -1380,6 +1410,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/weathered_limestone_cobblestone_slab": {
+    "criteria": {
+      "has_weathered_limestone_cobblestone": "2024-12-09 01:10:05 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/white_kitchen_counter": {
     "criteria": {
       "has_stone": "2024-12-07 03:29:51 +0000"
@@ -1395,6 +1431,12 @@
   "cfm:recipes/cfm/light_blue_grill": {
     "criteria": {
       "has_iron": "2024-12-06 03:12:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/dolomite_cobblestone_wall_from_dolomite_cobblestone_stonecutting": {
+    "criteria": {
+      "has_dolomite_cobblestone": "2024-12-09 01:10:04 +0000"
     },
     "done": true
   },
@@ -1503,6 +1545,12 @@
   "comforts:sleeping_bag_light_gray": {
     "criteria": {
       "has_light_gray_wool": "2024-12-07 02:21:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/weathered_limestone_cobblestone_slab_from_weathered_limestone_cobblestone_stonecutting": {
+    "criteria": {
+      "has_weathered_limestone_cobblestone": "2024-12-09 01:10:05 +0000"
     },
     "done": true
   },
@@ -1707,6 +1755,12 @@
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2024-12-06 03:12:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/dolomite_cobblestone_stairs_from_dolomite_cobblestone_stonecutting": {
+    "criteria": {
+      "has_dolomite_cobblestone": "2024-12-09 01:10:05 +0000"
     },
     "done": true
   },
@@ -2028,6 +2082,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/gabbro_cobblestone_slab": {
+    "criteria": {
+      "has_gabbro_cobblestone": "2024-12-09 01:08:19 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_spruce_table": {
     "criteria": {
       "has_planks": "2024-12-06 03:09:03 +0000"
@@ -2283,6 +2343,12 @@
   "minecraft:recipes/travelersbackpack/standard_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2024-12-06 16:09:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/weathered_limestone_cobblestone_stairs_from_weathered_limestone_cobblestone_stonecutting": {
+    "criteria": {
+      "has_weathered_limestone_cobblestone": "2024-12-09 01:10:05 +0000"
     },
     "done": true
   },
@@ -2778,6 +2844,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot": {
+    "criteria": {
+      "has_iron_ore": "2024-12-09 01:08:19 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/light_gray_kitchen_sink": {
     "criteria": {
       "has_bucket": "2024-12-06 04:37:02 +0000"
@@ -2853,6 +2925,12 @@
   "bigreactors:recipes/bigreactors.general/fluidizer/solidinjector": {
     "criteria": {
       "has_item2": "2024-12-06 15:04:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/dolomite_cobblestone_slab_from_dolomite_cobblestone_stonecutting": {
+    "criteria": {
+      "has_dolomite_cobblestone": "2024-12-09 01:10:04 +0000"
     },
     "done": true
   },
@@ -3093,6 +3171,12 @@
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-06 03:59:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/weathered_limestone_cobblestone_wall_from_weathered_limestone_cobblestone_stonecutting": {
+    "criteria": {
+      "has_weathered_limestone_cobblestone": "2024-12-09 01:10:05 +0000"
     },
     "done": true
   },
@@ -3693,6 +3777,12 @@
   "comforts:sleeping_bag_orange": {
     "criteria": {
       "has_orange_wool": "2024-12-06 03:53:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/gabbro_cobblestone_slab_from_gabbro_cobblestone_stonecutting": {
+    "criteria": {
+      "has_gabbro_cobblestone": "2024-12-09 01:08:19 +0000"
     },
     "done": true
   },
@@ -4559,6 +4649,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/weathered_limestone": {
+    "criteria": {
+      "has_weathered_limestone_cobblestone": "2024-12-09 01:10:05 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/red_grill": {
     "criteria": {
       "has_iron": "2024-12-06 03:12:41 +0000"
@@ -4628,6 +4724,12 @@
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2024-12-06 03:42:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/dolomite_cobblestone_wall": {
+    "criteria": {
+      "has_dolomite_cobblestone": "2024-12-09 01:10:05 +0000"
     },
     "done": true
   },
@@ -4796,6 +4898,12 @@
   "minecraft:recipes/building_blocks/acacia_stairs": {
     "criteria": {
       "has_planks": "2024-12-06 15:39:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/gabbro_cobblestone_stairs_from_gabbro_cobblestone_stonecutting": {
+    "criteria": {
+      "has_gabbro_cobblestone": "2024-12-09 01:08:19 +0000"
     },
     "done": true
   },
@@ -5048,6 +5156,12 @@
   "cfm:recipes/cfm/stripped_oak_table": {
     "criteria": {
       "has_planks": "2024-12-06 16:35:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/weathered_limestone_cobblestone_wall": {
+    "criteria": {
+      "has_weathered_limestone_cobblestone": "2024-12-09 01:10:05 +0000"
     },
     "done": true
   },
@@ -5352,6 +5466,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2024-12-06 03:17:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/weathered_limestone_cobblestone_stairs": {
+    "criteria": {
+      "has_weathered_limestone_cobblestone": "2024-12-09 01:10:05 +0000"
     },
     "done": true
   },
@@ -5949,6 +6069,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/gabbro": {
+    "criteria": {
+      "has_gabbro_cobblestone": "2024-12-09 01:08:19 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/orange_cooler": {
     "criteria": {
       "has_chest": "2024-12-06 03:39:36 +0000"
@@ -6042,6 +6168,12 @@
   "minecraft:recipes/travelersbackpack/magma_cube_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2024-12-06 16:09:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/gabbro_cobblestone_wall_from_gabbro_cobblestone_stonecutting": {
+    "criteria": {
+      "has_gabbro_cobblestone": "2024-12-09 01:08:19 +0000"
     },
     "done": true
   },
@@ -6186,6 +6318,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2024-12-06 03:17:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/dolomite_cobblestone_slab": {
+    "criteria": {
+      "has_dolomite_cobblestone": "2024-12-09 01:10:04 +0000"
     },
     "done": true
   },
