@@ -865,3 +865,51 @@ java.lang.NullPointerException: null
 [09Dec2024 01:52:47.246] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Creative Mode]
 [09Dec2024 01:53:20.395] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Survival Mode]
 [09Dec2024 01:53:36.344] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ElVendeHumo5000 has made the advancement [Monster Hunter]
+[09Dec2024 01:53:54.868] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: I_4M_R3D lost connection: Timed out
+[09Dec2024 01:53:54.868] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: I_4M_R3D left the game
+[09Dec2024 01:53:54.868] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client I_4M_R3D
+[09Dec2024 01:54:13.857] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2e63678a
+[09Dec2024 01:54:13.869] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: I_4M_R3D[/0:0:0:0:0:0:0:1%0:34140] logged in with entity id 63426 at (-5780.57216642666, 63.0, 1761.942590777063)
+[09Dec2024 01:54:13.873] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: I_4M_R3D joined the game
+[09Dec2024 01:54:14.553] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of I_4M_R3D (18)
+[09Dec2024 01:54:14.553] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to I_4M_R3D
+[09Dec2024 01:54:28.997] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: I_4M_R3D lost connection: Timed out
+[09Dec2024 01:54:28.998] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: I_4M_R3D left the game
+[09Dec2024 01:54:28.998] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client I_4M_R3D
+[09Dec2024 01:54:49.852] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3a6d0ab1
+[09Dec2024 01:54:49.861] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: I_4M_R3D[/0:0:0:0:0:0:0:1%0:60298] logged in with entity id 63757 at (-5780.439041812904, 63.0, 1761.7425185747084)
+[09Dec2024 01:54:49.866] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: I_4M_R3D joined the game
+[09Dec2024 01:54:50.565] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of I_4M_R3D (18)
+[09Dec2024 01:54:50.565] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to I_4M_R3D
+[09Dec2024 01:55:05.981] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[09Dec2024 01:56:07.668] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[09Dec2024 01:56:34.113] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Olive'/514, l='ServerLevel[world]', x=-5715.32, y=62.46, z=1705.78] died, message: 'Olive was slain by Fallen Chaos Knight'
+[09Dec2024 01:56:35.162] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[09Dec2024 01:56:58.711] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[09Dec2024 01:57:16.597] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2893ms or 57 ticks behind
+[09Dec2024 01:57:21.307] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: yxrall moved too quickly! -8.360358988526514,6.055084516706714,-0.09255316011183368
+[09Dec2024 01:57:37.788] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6234ms or 124 ticks behind
+[09Dec2024 01:57:56.997] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4242ms or 84 ticks behind
+[09Dec2024 01:58:01.153] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ElVendeHumo5000 has made the advancement [Stone Age]
+[09Dec2024 01:58:16.403] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4448ms or 88 ticks behind
+[09Dec2024 01:58:36.457] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5103ms or 102 ticks behind
+[09Dec2024 01:58:54.826] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3372ms or 67 ticks behind
+[09Dec2024 01:59:12.063] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[09Dec2024 01:59:42.091] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[09Dec2024 02:00:01.962] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[09Dec2024 02:00:19.191] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2237ms or 44 ticks behind
+[09Dec2024 02:00:36.255] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[09Dec2024 02:00:53.383] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2129ms or 42 ticks behind
+[09Dec2024 02:01:06.983] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Liv'/35414, l='ServerLevel[world]', x=-897.73, y=66.00, z=-572.23] died, message: 'Liv was slain by Zombie'
+[09Dec2024 02:01:11.315] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[09Dec2024 02:01:14.963] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: ElVendeHumo5000 lost connection: Timed out
+[09Dec2024 02:01:14.963] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ElVendeHumo5000 left the game
+[09Dec2024 02:01:14.964] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ElVendeHumo5000
+[09Dec2024 02:01:22.223] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5465900c
+[09Dec2024 02:01:22.230] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: ElVendeHumo5000[/0:0:0:0:0:0:0:1%0:35964] logged in with entity id 67988 at (-880.3000000119209, 67.0, 536.3927970386999)
+[09Dec2024 02:01:22.234] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ElVendeHumo5000 joined the game
+[09Dec2024 02:01:26.430] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ElVendeHumo5000 (18)
+[09Dec2024 02:01:26.431] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ElVendeHumo5000
+[09Dec2024 02:02:31.952] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ElVendeHumo5000 has made the advancement [Not Today, Thank You]
+[09Dec2024 02:03:46.429] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Creative Mode]
+[09Dec2024 02:03:56.047] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Survival Mode]
