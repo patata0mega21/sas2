@@ -7119,3 +7119,8 @@ java.lang.NullPointerException: null
 [09Dec2024 12:50:22.189] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Successfully filled 2489 blocks]
 [09Dec2024 12:51:30.496] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Successfully filled 820 blocks]
 [09Dec2024 12:51:50.175] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Successfully filled 820 blocks]
+[09Dec2024 12:54:53.211] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[09Dec2024 12:54:53.223] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[09Dec2024 12:57:33.535] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Successfully filled 216 blocks]
+[09Dec2024 12:59:53.127] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[09Dec2024 12:59:53.142] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
