@@ -10601,3 +10601,16 @@ java.lang.NullPointerException: null
 [09Dec2024 03:32:07.762] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Kristin'/35438, l='ServerLevel[world]', x=-932.24, y=70.00, z=-498.51] died, message: 'Kristin was slain by Door Knight'
 [09Dec2024 03:34:54.856] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [09Dec2024 03:34:54.864] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[09Dec2024 03:39:46.892] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <I_4M_R3D> -5800 1700
+[09Dec2024 03:39:54.992] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[09Dec2024 03:39:55.000] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[09Dec2024 03:44:54.906] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[09Dec2024 03:44:54.915] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[09Dec2024 03:46:40.934] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: _Orion_15632 lost connection: Timed out
+[09Dec2024 03:46:40.934] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: _Orion_15632 left the game
+[09Dec2024 03:46:40.934] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of _Orion_15632
+[09Dec2024 03:46:40.934] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client _Orion_15632
+[09Dec2024 03:46:42.332] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: I_4M_R3D lost connection: Timed out
+[09Dec2024 03:46:42.332] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: I_4M_R3D left the game
+[09Dec2024 03:46:42.332] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of I_4M_R3D
+[09Dec2024 03:46:42.333] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client I_4M_R3D
