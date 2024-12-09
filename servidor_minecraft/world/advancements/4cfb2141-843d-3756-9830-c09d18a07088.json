@@ -251,6 +251,12 @@
     },
     "done": true
   },
+  "bigreactors:recipes/bigreactors.reactor/reactor/basic/activetap_fe": {
+    "criteria": {
+      "has_item2": "2024-12-09 03:23:20 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_small_prairie_house": {
     "criteria": {
       "location0": "2024-12-07 01:39:12 +0000"
@@ -4518,6 +4524,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2024-12-09 03:23:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2024-12-06 03:28:10 +0000"
@@ -4569,6 +4581,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2024-12-06 02:27:03 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/bigreactors.turbine/turbine/reinforced/activetap_fe": {
+    "criteria": {
+      "has_item2": "2024-12-09 03:23:20 +0000"
     },
     "done": true
   },
@@ -5290,6 +5308,12 @@
     },
     "done": true
   },
+  "bigreactors:recipes/bigreactors.turbine/turbine/basic/activetap_fe": {
+    "criteria": {
+      "has_item2": "2024-12-09 03:23:20 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/orange_seat": {
     "criteria": {
       "has_wool": "2024-12-07 01:38:54 +0000"
@@ -5557,6 +5581,12 @@
   "cfm:recipes/cfm/pink_kitchen_counter": {
     "criteria": {
       "has_stone": "2024-12-07 03:12:17 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/bigreactors.reactor/reactor/reinforced/activetap_fe": {
+    "criteria": {
+      "has_item2": "2024-12-09 03:23:20 +0000"
     },
     "done": true
   },

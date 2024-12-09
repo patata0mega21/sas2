@@ -512,6 +512,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-09 02:02:33 +0000",
+      "minecraft:vex": "2024-12-09 03:22:13 +0000",
       "minecraft:zombie": "2024-12-09 01:53:36 +0000"
     },
     "done": false
@@ -601,6 +602,12 @@
   "cfm:recipes/cfm/spruce_chair": {
     "criteria": {
       "has_log": "2024-12-09 01:50:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-09 03:13:52 +0000"
     },
     "done": true
   },
@@ -2166,6 +2173,12 @@
   "cfm:recipes/cfm/stripped_crimson_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-09 02:49:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-09 03:23:19 +0000"
     },
     "done": true
   },
