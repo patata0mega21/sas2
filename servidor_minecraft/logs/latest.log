@@ -682,3 +682,5 @@ java.lang.NullPointerException: null
 [09Dec2024 13:08:35.656] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Successfully filled 118 blocks]
 [09Dec2024 13:33:23.779] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Successfully filled 286 blocks]
 [09Dec2024 13:34:31.740] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Successfully filled 286 blocks]
+[09Dec2024 14:17:55.546] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Survival Mode]
+[09Dec2024 14:18:28.533] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Creative Mode]
