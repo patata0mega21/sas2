@@ -7482,3 +7482,73 @@ java.lang.NullPointerException: null
 [09Dec2024 14:49:53.550] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [09Dec2024 14:54:53.348] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [09Dec2024 14:54:53.358] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[09Dec2024 14:56:36.254] [Worker-Main-102/INFO] [ObserverLib/]: Load CachedWorldData 'rock-crystals' for world minecraft:overworld
+[09Dec2024 14:56:36.419] [Worker-Main-102/INFO] [ObserverLib/]: Loading of 'rock-crystals' for world minecraft:overworld finished.
+[09Dec2024 14:56:47.304] [Worker-Main-102/DEBUG] [mixin/]: Mixing JigsawManagerAssemblerMixin from mixins.waystones.json into net.minecraft.world.gen.feature.jigsaw.JigsawManager$Assembler
+[09Dec2024 14:56:47.305] [Worker-Main-102/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledPieces$2(Lnet/minecraft/world/gen/feature/jigsaw/JigsawPiece;)Z to mdc043e0$lambda$getShuffledPieces$2$0 in mixins.waystones.json:JigsawManagerAssemblerMixin
+[09Dec2024 14:56:47.305] [Worker-Main-102/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledPieces$1(Ljava/lang/String;)Z to mdc043e0$lambda$getShuffledPieces$1$1 in mixins.waystones.json:JigsawManagerAssemblerMixin
+[09Dec2024 14:56:47.305] [Worker-Main-102/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledPieces$0(Ljava/lang/Object;)Ljava/lang/String; to mdc043e0$lambda$getShuffledPieces$0$2 in mixins.waystones.json:JigsawManagerAssemblerMixin
+[09Dec2024 14:59:49.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: yxrall has made the advancement [Local Brewery]
+[09Dec2024 14:59:54.044] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[09Dec2024 14:59:54.054] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[09Dec2024 15:01:22.435] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <yxrall> agu
+[09Dec2024 15:01:26.112] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <patata0mega> dime
+[09Dec2024 15:01:26.237] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <yxrall> esta
+[09Dec2024 15:01:30.286] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <yxrall> los mobs
+[09Dec2024 15:01:33.584] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <yxrall> esos de los tikis
+[09Dec2024 15:01:49.091] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <patata0mega> que cosa?
+[09Dec2024 15:01:58.256] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <yxrall> esos mobs
+[09Dec2024 15:02:00.193] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <yxrall> de los tikis
+[09Dec2024 15:02:02.513] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <yxrall> q son cmo indios
+[09Dec2024 15:02:05.652] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <yxrall> q esta el rey del sol
+[09Dec2024 15:02:12.352] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <patata0mega> ya que pasa con eso?
+[09Dec2024 15:02:16.847] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <yxrall> estan?
+[09Dec2024 15:02:27.280] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <patata0mega> se supone que si salen en savana
+[09Dec2024 15:02:50.611] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: yxrall has made the advancement [Masquerade]
+[09Dec2024 15:03:01.299] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <yxrall> lo pille
+[09Dec2024 15:04:45.180] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: yxrall moved too quickly! -0.178511041925276,-9.180373788364946,4.041806311592154
+[09Dec2024 15:04:54.031] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[09Dec2024 15:04:54.041] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[09Dec2024 15:04:54.081] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: yxrall moved too quickly! -5.061887064983239,-8.551920817698658,-1.4786241364108719
+[09Dec2024 15:06:40.644] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Survival Mode]
+[09Dec2024 15:07:12.647] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <patata0mega> sabi que es lo chistoso pa tener la oportunidad de morir tengo que andar con la mitad de la armadura
+[09Dec2024 15:07:28.945] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <yxrall> yo tengo q andar sin armor
+[09Dec2024 15:07:31.803] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <yxrall> pa morirme
+[09Dec2024 15:07:48.528] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <patata0mega> te subiste todos los corazones ?
+[09Dec2024 15:07:51.146] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <yxrall> si
+[09Dec2024 15:08:01.251] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <patata0mega> tengo prote 4 en todo
+[09Dec2024 15:08:04.916] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <yxrall> x2
+[09Dec2024 15:08:10.060] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <yxrall> me falta
+[09Dec2024 15:08:11.360] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <yxrall> mejorar
+[09Dec2024 15:08:13.097] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <yxrall> el material
+[09Dec2024 15:08:16.109] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <yxrall> y toi
+[09Dec2024 15:08:26.843] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <patata0mega> ma encima tengo otra armadura de black metal
+[09Dec2024 15:08:32.541] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <yxrall> boaa
+[09Dec2024 15:08:38.900] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <yxrall> estas peleando xd?
+[09Dec2024 15:08:50.534] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <patata0mega> no
+[09Dec2024 15:08:57.919] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <patata0mega> me pegaron nomas
+[09Dec2024 15:09:54.162] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[09Dec2024 15:09:54.172] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[09Dec2024 15:09:54.206] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: yxrall moved too quickly! 10.101301332645107,-1.4615840950565229,1.3881806094923377
+[09Dec2024 15:09:56.270] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: patata0mega moved too quickly! -0.06205034439881274,-13.539832551105832,1.1826579741348269
+[09Dec2024 15:10:00.202] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: patata0mega is bleeding...
+[09Dec2024 15:10:11.059] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: patata0mega fell from a high place
+[09Dec2024 15:10:20.841] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: yxrall has completed the challenge [Find: Temple husk]
+[09Dec2024 15:10:21.887] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <patata0mega> estoy haciendo pruebas
+[09Dec2024 15:10:44.512] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <patata0mega> no aguanto una caida sin armadura de la altura maxima
+[09Dec2024 15:11:04.802] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Creative Mode]
+[09Dec2024 15:11:16.289] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1264, y=68, z=13247} BlockPos{x=1265, y=66, z=13246}
+[09Dec2024 15:11:16.343] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1264, y=68, z=13247} BlockPos{x=1265, y=66, z=13246}
+[09Dec2024 15:11:16.392] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1264, y=68, z=13247} BlockPos{x=1265, y=66, z=13246}
+[09Dec2024 15:11:16.441] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1264, y=68, z=13247} BlockPos{x=1265, y=66, z=13246}
+[09Dec2024 15:11:48.495] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Survival Mode]
+[09Dec2024 15:13:09.397] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <patata0mega> con armadura si aguanto
+[09Dec2024 15:13:19.761] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <patata0mega> me saco dos barras de vida eso si
+[09Dec2024 15:13:27.401] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <yxrall> aaa
+[09Dec2024 15:13:59.000] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <patata0mega> amierda no tengo echa la armadura de dark metal
+[09Dec2024 15:14:16.741] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <patata0mega> eso era antes de que se perdieran algunas cosas
+[09Dec2024 15:14:20.208] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <yxrall> aa
+[09Dec2024 15:14:32.790] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <patata0mega> pero tengo los materiales igual
+[09Dec2024 15:14:42.637] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: yxrall moved too quickly! 4.165331319778716,5.858955430982832,-8.006598502204724
+[09Dec2024 15:14:54.248] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[09Dec2024 15:14:54.258] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world

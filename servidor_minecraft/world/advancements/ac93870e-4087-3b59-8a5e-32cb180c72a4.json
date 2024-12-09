@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_barakoana": {
+    "criteria": {
+      "barakoana": "2024-12-09 15:02:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2024-12-06 03:10:51 +0000"
@@ -182,6 +188,12 @@
   "create:recipes/create.palettes/gabbro_cobblestone_stairs": {
     "criteria": {
       "has_gabbro_cobblestone": "2024-12-09 01:08:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-09 15:11:11 +0000"
     },
     "done": true
   },
@@ -308,6 +320,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2024-12-06 03:12:41 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/paraglider/cosmetic/rito_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2024-12-09 15:05:26 +0000"
     },
     "done": true
   },
@@ -1284,6 +1302,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_wishing_well": {
+    "criteria": {
+      "location0": "2024-12-09 15:08:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2024-12-06 03:26:31 +0000"
@@ -1365,6 +1389,12 @@
   "create:recipes/create.palettes/paved_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-09 02:35:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2024-12-09 14:59:49 +0000"
     },
     "done": true
   },
@@ -1980,6 +2010,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2024-12-09 15:11:11 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stone_desk": {
     "criteria": {
       "has_planks": "2024-12-06 03:25:00 +0000"
@@ -2460,6 +2496,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2024-12-09 15:11:11 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_birch_desk": {
     "criteria": {
       "has_planks": "2024-12-06 16:36:56 +0000"
@@ -2565,6 +2607,12 @@
   "cfm:recipes/cfm/stripped_warped_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-06 03:39:36 +0000"
+    },
+    "done": true
+  },
+  "awesomedungeon:desert_temple_husk/find_normal": {
+    "criteria": {
+      "requirement": "2024-12-09 15:10:20 +0000"
     },
     "done": true
   },
@@ -4869,6 +4917,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2024-12-09 15:11:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:zombie": "2024-12-06 03:46:20 +0000"
@@ -6087,6 +6141,12 @@
     },
     "done": true
   },
+  "paraglider:recipes/paraglider/cosmetic/goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2024-12-09 15:05:26 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/warped_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-06 03:39:36 +0000"
@@ -6525,6 +6585,12 @@
     },
     "done": true
   },
+  "paraglider:recipes/paraglider/cosmetic/goron_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2024-12-09 15:05:26 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/orange_cooler": {
     "criteria": {
       "has_chest": "2024-12-06 03:39:36 +0000"
@@ -6750,6 +6816,12 @@
   "cfm:recipes/cfm/door_mat": {
     "criteria": {
       "has_wheat": "2024-12-09 01:41:41 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/paraglider/cosmetic/kakariko_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2024-12-09 15:05:26 +0000"
     },
     "done": true
   },
