@@ -830,3 +830,38 @@ java.lang.NullPointerException: null
 [09Dec2024 01:41:43.635] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-921, y=72, z=-548} BlockPos{x=-922, y=71, z=-549}
 [09Dec2024 01:41:43.695] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-921, y=72, z=-548} BlockPos{x=-922, y=71, z=-549}
 [09Dec2024 01:41:43.743] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-921, y=72, z=-548} BlockPos{x=-922, y=71, z=-549}
+[09Dec2024 01:43:37.401] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Creative Mode]
+[09Dec2024 01:44:28.284] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Survival Mode]
+[09Dec2024 01:45:37.181] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Creative Mode]
+[09Dec2024 01:45:55.079] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Survival Mode]
+[09Dec2024 01:46:13.027] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@26b830db
+[09Dec2024 01:46:13.031] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: ElVendeHumo5000[/0:0:0:0:0:0:0:1%0:53116] logged in with entity id 59595 at (9.5, 92.0, 4.5)
+[09Dec2024 01:46:13.036] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ElVendeHumo5000 joined the game
+[09Dec2024 01:46:13.105] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ElVendeHumo5000 has made the advancement [Minecraft Comes Alive]
+[09Dec2024 01:46:15.098] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-5802, y=62, z=1746} BlockPos{x=-5803, y=62, z=1746}
+[09Dec2024 01:46:15.160] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-5801, y=62, z=1746} BlockPos{x=-5803, y=62, z=1746}
+[09Dec2024 01:46:15.493] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ElVendeHumo5000 (18)
+[09Dec2024 01:46:15.494] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ElVendeHumo5000
+[09Dec2024 01:46:39.852] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <I_4M_R3D> ale no hay voice chat
+[09Dec2024 01:47:22.998] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ElVendeHumo5000> como que volvio?
+[09Dec2024 01:47:32.743] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=11, y=93, z=6}
+[09Dec2024 01:47:32.836] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=10, y=92, z=5}
+[09Dec2024 01:47:34.446] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=10, y=93, z=5}
+[09Dec2024 01:47:44.639] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ElVendeHumo5000> voy a discord?
+[09Dec2024 01:47:51.635] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <I_4M_R3D> si
+[09Dec2024 01:47:52.485] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <yxrall> claro
+[09Dec2024 01:47:59.337] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: I_4M_R3D has made the advancement [First Age]
+[09Dec2024 01:49:54.644] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Teleported patata0mega to ElVendeHumo5000]
+[09Dec2024 01:50:04.401] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Creative Mode]
+[09Dec2024 01:50:22.692] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ElVendeHumo5000 has made the advancement [Suit Up]
+[09Dec2024 01:50:28.087] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ElVendeHumo5000 has made the advancement [Isn't It Iron Pick]
+[09Dec2024 01:51:01.388] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Teleported patata0mega to I_4M_R3D]
+[09Dec2024 01:51:12.149] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Survival Mode]
+[09Dec2024 01:51:48.689] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ElVendeHumo5000 has made the advancement [Acquire Hardware]
+[09Dec2024 01:52:06.900] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ElVendeHumo5000 is bleeding...
+[09Dec2024 01:52:13.131] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Teleported patata0mega to ElVendeHumo5000]
+[09Dec2024 01:52:36.543] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ElVendeHumo5000 has made the advancement [Amateur Archaeologist]
+[09Dec2024 01:52:41.541] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Teleported patata0mega to I_4M_R3D]
+[09Dec2024 01:52:47.246] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Creative Mode]
+[09Dec2024 01:53:20.395] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Survival Mode]
+[09Dec2024 01:53:36.344] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ElVendeHumo5000 has made the advancement [Monster Hunter]
