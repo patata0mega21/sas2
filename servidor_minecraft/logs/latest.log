@@ -633,3 +633,9 @@ java.lang.NullPointerException: null
 [09Dec2024 12:24:52.898] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 1938
 [09Dec2024 12:24:52.923] [Server thread/INFO] [ObserverLib/]: Load CachedWorldData 'lightnetwork' for world minecraft:overworld
 [09Dec2024 12:24:52.995] [Server thread/INFO] [ObserverLib/]: Loading of 'lightnetwork' for world minecraft:overworld finished.
+[09Dec2024 12:42:20.774] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@257082bf
+[09Dec2024 12:42:20.804] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: patata0mega[/0:0:0:0:0:0:0:1%0:38792] logged in with entity id 92 at (-5799.552719675068, 72.0, 1753.1721982789045)
+[09Dec2024 12:42:20.846] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: patata0mega joined the game
+[09Dec2024 12:42:22.489] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of patata0mega (18)
+[09Dec2024 12:42:22.492] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to patata0mega
+[09Dec2024 12:42:58.580] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Creative Mode]
