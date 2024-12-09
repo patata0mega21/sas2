@@ -2051,6 +2051,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2024-12-09 03:07:31 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/crimson_coffee_table": {
     "criteria": {
       "has_planks": "2024-12-07 03:03:47 +0000"
@@ -2960,6 +2966,12 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_chestplate": "2024-12-07 02:36:59 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/common/glass/vanilla/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2024-12-09 03:07:31 +0000"
     },
     "done": true
   },
@@ -5041,6 +5053,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2024-12-07 01:38:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2024-12-09 03:07:31 +0000"
     },
     "done": true
   },
