@@ -5882,15 +5882,15 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/magenta_picket_gate": {
-    "criteria": {
-      "has_gate": "2024-12-08 21:30:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/netherite_helmet_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-12-08 20:59:51 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/magenta_picket_gate": {
+    "criteria": {
+      "has_gate": "2024-12-08 21:30:59 +0000"
     },
     "done": true
   },
