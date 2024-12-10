@@ -1200,6 +1200,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-10 01:48:09 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_oak_mail_box": {
     "criteria": {
       "has_chest": "2024-12-06 16:24:34 +0000"
@@ -1269,6 +1275,12 @@
   "cfm:recipes/cfm/stripped_crimson_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2024-12-09 00:20:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-10 01:48:09 +0000"
     },
     "done": true
   },
@@ -1914,6 +1926,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-10 01:48:09 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/tools/diamond_fillet_knife": {
     "criteria": {
       "has_items": "2024-12-06 03:57:47 +0000"
@@ -2052,6 +2070,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-10 01:48:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2024-12-06 03:57:47 +0000"
@@ -2184,6 +2208,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-10 01:48:09 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_jungle_upgraded_fence": {
     "criteria": {
       "has_log": "2024-12-07 02:20:32 +0000"
@@ -2211,6 +2241,12 @@
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2024-12-06 03:57:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-10 01:48:09 +0000"
     },
     "done": true
   },
@@ -2247,6 +2283,12 @@
   "cfm:recipes/cfm/oak_upgraded_gate": {
     "criteria": {
       "has_log": "2024-12-07 06:10:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-10 01:48:09 +0000"
     },
     "done": true
   },
@@ -2367,6 +2409,12 @@
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2024-12-07 06:11:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-10 01:48:09 +0000"
     },
     "done": true
   },
@@ -3648,6 +3696,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-10 01:48:09 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/dark_oak_kitchen_sink_dark": {
     "criteria": {
       "has_bottom": "2024-12-06 15:53:36 +0000"
@@ -3834,6 +3888,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-10 01:48:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2024-12-06 02:32:47 +0000"
@@ -3928,6 +3988,12 @@
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-07 07:02:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-10 01:48:09 +0000"
     },
     "done": true
   },
@@ -4946,6 +5012,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-10 01:48:09 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/spruce_crate": {
     "criteria": {
       "has_log": "2024-12-06 02:33:23 +0000"
@@ -5165,6 +5237,12 @@
   "minecraft:recipes/travelersbackpack/fox_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2024-12-06 14:13:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-10 01:48:09 +0000"
     },
     "done": true
   },
@@ -6464,6 +6542,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-10 01:48:09 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/pink_seat": {
     "criteria": {
       "has_wool": "2024-12-06 15:53:10 +0000"
@@ -6599,6 +6683,12 @@
   "minecraft:recipes/tconstruct/general/tools/modifiers/slime_crystal/sky": {
     "criteria": {
       "has_item": "2024-12-06 15:58:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-10 01:48:09 +0000"
     },
     "done": true
   },

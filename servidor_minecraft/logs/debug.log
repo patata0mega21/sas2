@@ -7124,3 +7124,45 @@ java.lang.NullPointerException: null
 [10Dec2024 01:42:34.744] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [10Dec2024 01:42:34.778] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [10Dec2024 01:42:36.392] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[10Dec2024 01:46:15.940] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Creative Mode]
+[10Dec2024 01:47:35.790] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10Dec2024 01:47:35.807] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[10Dec2024 01:48:16.963] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: patata0mega is bleeding...
+[10Dec2024 01:48:16.966] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Killed patata0mega]
+[10Dec2024 01:48:22.153] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: patata0mega fell out of the world
+[10Dec2024 01:48:23.458] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/1625, l='ServerLevel[world]', x=-5729.32, y=89.13, z=1618.40]
+[10Dec2024 01:50:08.660] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[10Dec2024 01:50:08.666] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /sto`p<--[HERE]
+[10Dec2024 01:50:10.957] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[10Dec2024 01:50:11.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[10Dec2024 01:50:11.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[10Dec2024 01:50:11.034] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: patata0mega lost connection: Server closed
+[10Dec2024 01:50:11.035] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: patata0mega left the game
+[10Dec2024 01:50:11.039] [Server thread/INFO] [Astral Sorcery/]: Clearing perk-tree because the player's skill-tree version was outdated!
+[10Dec2024 01:50:11.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[10Dec2024 01:50:11.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[10Dec2024 01:50:12.247] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10Dec2024 01:50:12.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[10Dec2024 01:50:12.248] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10Dec2024 01:50:12.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[10Dec2024 01:50:12.249] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10Dec2024 01:50:12.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/witherstormmod:bowels
+[10Dec2024 01:50:12.250] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (bowels): All chunks are saved
+[10Dec2024 01:50:12.251] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10Dec2024 01:50:12.262] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[10Dec2024 01:50:12.287] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[10Dec2024 01:50:12.287] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[10Dec2024 01:50:12.291] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10Dec2024 01:50:12.306] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_nether
+[10Dec2024 01:50:12.306] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_nether
+[10Dec2024 01:50:12.306] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10Dec2024 01:50:12.307] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_end
+[10Dec2024 01:50:12.307] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_end
+[10Dec2024 01:50:12.307] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10Dec2024 01:50:12.308] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for witherstormmod:bowels
+[10Dec2024 01:50:12.308] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for witherstormmod:bowels
+[10Dec2024 01:50:12.308] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (bowels): All chunks are saved
+[10Dec2024 01:50:12.310] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing serverconfig directory : ./world/serverconfig
+[10Dec2024 01:50:12.310] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[10Dec2024 01:50:12.311] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file pamhc2trees.toml changed, sending notifies
+[10Dec2024 01:50:12.312] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file /workspaces/sas2/servidor_minecraft/config/waystones-server.toml changed, sending notifies
