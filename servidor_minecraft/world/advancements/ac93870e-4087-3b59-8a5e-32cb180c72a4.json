@@ -1626,6 +1626,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-11 02:36:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_diamond_block": "2024-12-07 05:02:39 +0000"
@@ -3300,6 +3306,12 @@
     },
     "done": true
   },
+  "bigreactors:recipes/bigreactors.general/reprocessor/controller": {
+    "criteria": {
+      "has_item2": "2024-12-11 02:36:26 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/gadgets/gadgets/frame/diamond": {
     "criteria": {
       "has_item": "2024-12-06 03:12:41 +0000"
@@ -4924,6 +4936,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-11 02:36:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/standard_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2024-12-06 04:03:16 +0000"
@@ -5534,6 +5552,12 @@
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-06 16:37:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-11 02:36:26 +0000"
     },
     "done": true
   },

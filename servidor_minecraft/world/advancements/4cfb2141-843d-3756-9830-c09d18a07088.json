@@ -1871,6 +1871,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-12-11 02:34:20 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/white_sofa": {
     "criteria": {
       "has_wool": "2024-12-07 01:38:54 +0000"
@@ -4783,6 +4789,7 @@
       "bread": "2024-12-06 02:29:11 +0000",
       "golden_apple": "2024-12-06 04:23:26 +0000",
       "rotten_flesh": "2024-12-06 02:59:47 +0000",
+      "golden_carrot": "2024-12-11 02:42:29 +0000",
       "cooked_rabbit": "2024-12-06 03:08:07 +0000",
       "mushroom_stew": "2024-12-06 03:58:47 +0000",
       "carrot": "2024-12-06 03:04:03 +0000"
@@ -5590,6 +5597,12 @@
   "cfm:recipes/cfm/yellow_picket_gate": {
     "criteria": {
       "has_gate": "2024-12-07 05:23:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2024-12-11 02:34:20 +0000"
     },
     "done": true
   },
