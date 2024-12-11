@@ -726,3 +726,18 @@ java.lang.NullPointerException: null
 [11Dec2024 01:32:41.023] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: patata0mega joined the game
 [11Dec2024 01:32:41.740] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of patata0mega (18)
 [11Dec2024 01:32:41.741] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to patata0mega
+[11Dec2024 01:38:48.651] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: I_4M_R3D lost connection: You logged in from another location
+[11Dec2024 01:38:48.651] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: I_4M_R3D left the game
+[11Dec2024 01:38:48.652] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client I_4M_R3D
+[11Dec2024 01:38:48.672] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: I_4M_R3D[/0:0:0:0:0:0:0:1%0:60460] logged in with entity id 12118 at (205.778425260553, 64.0, 186.9685824018029)
+[11Dec2024 01:38:48.676] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: I_4M_R3D joined the game
+[11Dec2024 01:38:49.348] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2094ms or 41 ticks behind
+[11Dec2024 01:38:49.540] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of I_4M_R3D (18)
+[11Dec2024 01:38:49.541] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to I_4M_R3D
+[11Dec2024 01:39:10.477] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Trygve'/11998, l='ServerLevel[world]', x=-875.95, y=71.94, z=-461.29] died, message: 'Trygve was slain by Door Knight'
+[11Dec2024 01:43:33.578] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Survival Mode]
+[11Dec2024 01:43:38.864] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: _Orion_15632 has made the advancement [Into Fire]
+[11Dec2024 01:45:01.372] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Rachael'/92, l='ServerLevel[world]', x=-5638.15, y=74.00, z=1723.49] died, message: 'Rachael was shot by Pillager'
+[11Dec2024 01:50:47.680] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Creative Mode]
+[11Dec2024 01:51:25.999] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Survival Mode]
+[11Dec2024 01:55:36.326] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Oddrun'/20989, l='ServerLevel[world]', x=-918.79, y=69.94, z=-493.68] died, message: 'Oddrun was slain by Fallen Chaos Knight'

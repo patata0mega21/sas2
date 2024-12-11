@@ -209,6 +209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-12-11 01:45:41 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_jungle_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2024-12-07 05:33:20 +0000"
@@ -605,6 +611,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2024-12-11 01:45:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-06 02:30:42 +0000"
@@ -788,6 +800,12 @@
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2024-12-07 04:22:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_grill_cooking": {
+    "criteria": {
+      "has_chicken": "2024-12-11 01:45:40 +0000"
     },
     "done": true
   },
@@ -1349,6 +1367,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2024-12-11 01:45:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2024-12-07 01:38:54 +0000"
@@ -1787,6 +1811,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-11 01:33:59 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/diorite_pillar": {
     "criteria": {
       "has_diorite": "2024-12-06 03:33:47 +0000"
@@ -1820,6 +1850,12 @@
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-06 03:28:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2024-12-11 01:45:40 +0000"
     },
     "done": true
   },
@@ -2207,6 +2243,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-11 01:33:59 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/acacia_mail_box": {
     "criteria": {
       "has_chest": "2024-12-07 05:24:25 +0000"
@@ -2564,6 +2606,12 @@
   "cfm:recipes/cfm/granite_chair": {
     "criteria": {
       "has_planks": "2024-12-06 03:18:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-11 01:43:38 +0000"
     },
     "done": true
   },
@@ -3041,6 +3089,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-11 01:33:59 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/brown_grill": {
     "criteria": {
       "has_iron": "2024-12-06 02:28:46 +0000"
@@ -3164,6 +3218,12 @@
   "tconstruct:recipes/tconstruct/world/world/wood/greenheart/slab": {
     "criteria": {
       "has_planks": "2024-12-06 16:40:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-11 01:33:59 +0000"
     },
     "done": true
   },
@@ -3646,6 +3706,12 @@
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-07 01:33:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-11 01:43:38 +0000"
     },
     "done": true
   },
@@ -4831,6 +4897,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-11 01:33:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2024-12-06 03:32:23 +0000"
@@ -5383,6 +5455,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-11 01:33:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2024-12-06 03:33:47 +0000"
@@ -5518,6 +5596,12 @@
   "cfm:recipes/cfm/acacia_chair": {
     "criteria": {
       "has_planks": "2024-12-07 02:49:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-11 01:43:38 +0000"
     },
     "done": true
   },
@@ -5830,6 +5914,12 @@
   "cfm:recipes/cfm/stripped_jungle_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2024-12-07 05:33:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-11 01:33:59 +0000"
     },
     "done": true
   },
