@@ -8162,3 +8162,16 @@ java.lang.NullPointerException: null
 [11Dec2024 04:11:29.778] [Server thread/ERROR] [net.minecraft.village.PointOfInterestData/]: POI data mismatch: already registered at BlockPos{x=1035, y=29, z=13156}
 [11Dec2024 04:12:24.372] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <yxrall> ke
 [11Dec2024 04:12:25.278] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <yxrall> ?
+[11Dec2024 04:12:37.695] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <yxrall> si
+[11Dec2024 04:12:43.413] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <yxrall> diaz
+[11Dec2024 04:12:47.785] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <yxrall> dejame las gemas
+[11Dec2024 04:12:49.237] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <yxrall> xahi
+[11Dec2024 04:13:06.778] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <yxrall> cuanto aprox
+[11Dec2024 04:13:11.223] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[11Dec2024 04:13:11.232] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[11Dec2024 04:13:11.260] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: yxrall moved too quickly! 4.7031976610524,-7.0879184666495405,5.892304471349007
+[11Dec2024 04:13:13.162] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <yxrall> god
+[11Dec2024 04:13:14.647] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <yxrall> mefui
+[11Dec2024 04:18:01.677] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <yxrall> -920 -542
+[11Dec2024 04:18:10.754] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[11Dec2024 04:18:10.763] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world

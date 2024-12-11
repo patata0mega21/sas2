@@ -353,6 +353,12 @@
     },
     "done": true
   },
+  "druidcraft:druidcraft/root": {
+    "criteria": {
+      "hemp_seeds": "2024-12-11 04:15:05 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_jungle_upgraded_gate": {
     "criteria": {
       "has_gate": "2024-12-06 03:20:02 +0000"

@@ -1787,6 +1787,13 @@
     },
     "done": true
   },
+  "tconstruct:smeltery/cast_collector": {
+    "criteria": {
+      "tool_binding": "2024-12-11 04:17:56 +0000",
+      "ingot": "2024-12-11 04:13:45 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/cfm/oak_kitchen_counter": {
     "criteria": {
       "has_planks": "2024-12-07 03:26:36 +0000"
@@ -2687,6 +2694,12 @@
   "cfm:recipes/cfm/oak_desk": {
     "criteria": {
       "has_planks": "2024-12-07 03:26:36 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:smeltery/gold_casting": {
+    "criteria": {
+      "crafted_cast": "2024-12-11 04:13:45 +0000"
     },
     "done": true
   },
@@ -5671,6 +5684,12 @@
   "cfm:recipes/cfm/diorite_desk_cabinet": {
     "criteria": {
       "has_log": "2024-12-06 03:16:11 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/tables/cast_chest": {
+    "criteria": {
+      "has_item": "2024-12-11 04:13:45 +0000"
     },
     "done": true
   },
