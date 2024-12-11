@@ -209,6 +209,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/misc/tables/book_substitute": {
+    "criteria": {
+      "has_item": "2024-12-11 03:59:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2024-12-07 01:36:47 +0000"
@@ -254,6 +260,12 @@
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_planks": "2024-12-09 02:32:56 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/tables/crafting_station_from_logs": {
+    "criteria": {
+      "has_item": "2024-12-11 03:59:52 +0000"
     },
     "done": true
   },
@@ -845,6 +857,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/red_sand_cast": {
+    "criteria": {
+      "has_casting": "2024-12-11 04:03:56 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/drain": {
     "criteria": {
       "has_item": "2024-12-11 03:34:18 +0000"
@@ -929,9 +947,21 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/general/tables/crafting_station": {
+    "criteria": {
+      "has_item": "2024-12-11 03:59:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
       "has_log": "2024-12-07 03:43:55 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/tables/part_chest": {
+    "criteria": {
+      "has_item": "2024-12-11 03:59:52 +0000"
     },
     "done": true
   },
@@ -1574,6 +1604,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2024-12-07 03:27:13 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/tables/tinkers_chest": {
+    "criteria": {
+      "has_item": "2024-12-11 03:59:52 +0000"
     },
     "done": true
   },
@@ -2252,7 +2288,9 @@
   "tconstruct:smeltery/melter": {
     "criteria": {
       "seared_fuel_tank": "2024-12-11 03:38:41 +0000",
-      "seared_basin": "2024-12-11 03:57:56 +0000"
+      "seared_table": "2024-12-11 04:04:03 +0000",
+      "seared_basin": "2024-12-11 03:57:56 +0000",
+      "seared_faucet": "2024-12-11 04:00:46 +0000"
     },
     "done": false
   },
@@ -2265,6 +2303,12 @@
   "a_man_with_plushies:first_plush_box": {
     "criteria": {
       "first_plush_box": "2024-12-09 02:46:06 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/tables/part_builder": {
+    "criteria": {
+      "has_item": "2024-12-11 03:59:52 +0000"
     },
     "done": true
   },
@@ -4264,6 +4308,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/sand_cast": {
+    "criteria": {
+      "has_casting": "2024-12-11 04:03:56 +0000"
+    },
+    "done": true
+  },
   "bigreactors:recipes/bigreactors.turbine/turbine/reinforced/activefluidport_forge": {
     "criteria": {
       "has_item2": "2024-12-06 02:36:35 +0000"
@@ -5144,6 +5194,12 @@
     },
     "done": true
   },
+  "tconstruct:tools/make_part": {
+    "criteria": {
+      "crafted_part": "2024-12-11 03:59:25 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_warped_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2024-12-07 03:14:38 +0000"
@@ -5165,6 +5221,12 @@
   "minecraft:recipes/travelersbackpack/bee_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2024-12-07 04:46:39 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/tables/tinker_station": {
+    "criteria": {
+      "has_item": "2024-12-11 03:59:52 +0000"
     },
     "done": true
   },
@@ -5777,6 +5839,12 @@
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-09 02:32:56 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/common/materials_and_you": {
+    "criteria": {
+      "has_item": "2024-12-11 03:59:52 +0000"
     },
     "done": true
   },

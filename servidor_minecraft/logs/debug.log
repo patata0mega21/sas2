@@ -8139,3 +8139,26 @@ java.lang.NullPointerException: null
 [11Dec2024 03:58:10.701] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [11Dec2024 04:00:12.883] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Creative Mode]
 [11Dec2024 04:01:23.845] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Survival Mode]
+[11Dec2024 04:03:10.834] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[11Dec2024 04:03:10.844] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[11Dec2024 04:03:42.089] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@51eb011f
+[11Dec2024 04:04:02.581] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Borghild'/846, l='ServerLevel[world]', x=-856.29, y=72.00, z=-486.29] died, message: 'Borghild was slain by Zombie'
+[11Dec2024 04:05:38.319] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: patata0mega lost connection: Timed out
+[11Dec2024 04:05:38.320] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: patata0mega left the game
+[11Dec2024 04:05:38.324] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of patata0mega
+[11Dec2024 04:05:38.327] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client patata0mega
+[11Dec2024 04:05:38.398] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[11Dec2024 04:08:10.868] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[11Dec2024 04:08:10.877] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[11Dec2024 04:08:26.688] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <yxrall> eu
+[11Dec2024 04:08:32.082] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <yxrall> tienen nenufares?
+[11Dec2024 04:08:42.872] [Worker-Main-6/INFO] [ObserverLib/]: Load CachedWorldData 'rock-crystals' for world minecraft:overworld
+[11Dec2024 04:08:43.086] [Worker-Main-6/INFO] [ObserverLib/]: Loading of 'rock-crystals' for world minecraft:overworld finished.
+[11Dec2024 04:09:02.093] [Server thread/ERROR] [net.minecraft.village.PointOfInterestData/]: POI data mismatch: already registered at BlockPos{x=2591, y=12, z=10148}
+[11Dec2024 04:09:41.660] [Worker-Main-4/DEBUG] [mixin/]: Mixing JigsawManagerAssemblerMixin from mixins.waystones.json into net.minecraft.world.gen.feature.jigsaw.JigsawManager$Assembler
+[11Dec2024 04:09:41.661] [Worker-Main-4/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledPieces$2(Lnet/minecraft/world/gen/feature/jigsaw/JigsawPiece;)Z to md886443$lambda$getShuffledPieces$2$0 in mixins.waystones.json:JigsawManagerAssemblerMixin
+[11Dec2024 04:09:41.661] [Worker-Main-4/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledPieces$1(Ljava/lang/String;)Z to md886443$lambda$getShuffledPieces$1$1 in mixins.waystones.json:JigsawManagerAssemblerMixin
+[11Dec2024 04:09:41.661] [Worker-Main-4/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledPieces$0(Ljava/lang/Object;)Ljava/lang/String; to md886443$lambda$getShuffledPieces$0$2 in mixins.waystones.json:JigsawManagerAssemblerMixin
+[11Dec2024 04:11:29.778] [Server thread/ERROR] [net.minecraft.village.PointOfInterestData/]: POI data mismatch: already registered at BlockPos{x=1035, y=29, z=13156}
+[11Dec2024 04:12:24.372] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <yxrall> ke
+[11Dec2024 04:12:25.278] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <yxrall> ?
