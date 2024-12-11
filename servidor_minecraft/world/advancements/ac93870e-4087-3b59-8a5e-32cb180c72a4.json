@@ -2496,6 +2496,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2024-12-11 02:15:12 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/granite_bricks_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-07 03:34:47 +0000"
@@ -4200,6 +4206,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2024-12-11 02:13:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-06 03:52:00 +0000"
@@ -5793,6 +5805,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_mushroom_house": {
+    "criteria": {
+      "location0": "2024-12-11 02:19:37 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/cyan_cooler": {
     "criteria": {
       "has_chest": "2024-12-06 03:39:36 +0000"
@@ -6552,6 +6570,12 @@
   "create:recipes/create.palettes/acacia_window": {
     "criteria": {
       "has_ingredient": "2024-12-06 15:39:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2024-12-11 02:13:51 +0000"
     },
     "done": true
   },

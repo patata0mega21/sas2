@@ -2177,6 +2177,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-11 02:19:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_lapis_block": "2024-12-11 02:04:17 +0000"
@@ -3167,6 +3173,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-11 02:19:28 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/gray_kitchen_sink": {
     "criteria": {
       "has_bucket": "2024-12-07 05:33:20 +0000"
@@ -3850,6 +3862,12 @@
   "create:recipes/create.base/crafting/kinetics/copper_valve_handle_from_others": {
     "criteria": {
       "has_item": "2024-12-07 06:10:16 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/frame/gold": {
+    "criteria": {
+      "has_item": "2024-12-11 02:19:28 +0000"
     },
     "done": true
   },
