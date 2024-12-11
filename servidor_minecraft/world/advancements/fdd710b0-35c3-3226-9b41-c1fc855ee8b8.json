@@ -1373,6 +1373,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_brick": {
+    "criteria": {
+      "has_item": "2024-12-11 03:44:46 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/jungle_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2024-12-07 03:14:38 +0000"
@@ -1697,9 +1703,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2024-12-11 03:44:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2024-12-06 02:38:30 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/common/puny_smelting": {
+    "criteria": {
+      "has_item": "2024-12-11 03:44:46 +0000"
     },
     "done": true
   },
@@ -1862,6 +1880,12 @@
   "tconstruct:smeltery/puny_smelting": {
     "criteria": {
       "crafted_book": "2024-12-11 03:34:18 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_glass_pane": {
+    "criteria": {
+      "has_item": "2024-12-11 03:39:43 +0000"
     },
     "done": true
   },
@@ -2195,6 +2219,12 @@
     },
     "done": true
   },
+  "tconstruct:smeltery/melter": {
+    "criteria": {
+      "seared_fuel_tank": "2024-12-11 03:38:41 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/cfm/white_grill": {
     "criteria": {
       "has_iron": "2024-12-06 02:37:57 +0000"
@@ -2390,6 +2420,12 @@
   "a_man_with_plushies:first_rare_plushie": {
     "criteria": {
       "first_rare_plushie": "2024-12-07 02:21:33 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/smeltery/seared/seared_brick_kiln": {
+    "criteria": {
+      "has_item": "2024-12-11 03:44:46 +0000"
     },
     "done": true
   },
@@ -3464,6 +3500,12 @@
   "cfm:recipes/cfm/stripped_spruce_bedside_cabinet": {
     "criteria": {
       "has_planks": "2024-12-06 02:31:23 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/grout_multiple": {
+    "criteria": {
+      "has_item": "2024-12-11 03:44:25 +0000"
     },
     "done": true
   },

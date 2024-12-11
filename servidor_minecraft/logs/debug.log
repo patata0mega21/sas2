@@ -8109,3 +8109,25 @@ java.lang.NullPointerException: null
 [11Dec2024 03:38:10.341] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2342ms or 46 ticks behind
 [11Dec2024 03:39:21.597] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Survival Mode]
 [11Dec2024 03:41:06.150] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Creative Mode]
+[11Dec2024 03:43:11.134] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[11Dec2024 03:43:11.150] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[11Dec2024 03:45:15.391] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Survival Mode]
+[11Dec2024 03:47:26.087] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/5769, l='ServerLevel[world]', x=-5719.54, y=63.00, z=1760.84]
+[11Dec2024 03:47:26.087] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/5769, l='ServerLevel[world]', x=-5719.54, y=63.00, z=1760.84]
+[11Dec2024 03:47:26.088] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/5770, l='ServerLevel[world]', x=-5719.54, y=63.00, z=1760.84]
+[11Dec2024 03:47:26.088] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/5770, l='ServerLevel[world]', x=-5719.54, y=63.00, z=1760.84]
+[11Dec2024 03:47:26.088] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Piece of Dark Metal'/5764, l='ServerLevel[world]', x=-5719.54, y=63.00, z=1760.84]
+[11Dec2024 03:47:26.089] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Piece of Dark Metal'/5764, l='ServerLevel[world]', x=-5719.54, y=63.00, z=1760.84]
+[11Dec2024 03:47:26.089] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Bone'/5765, l='ServerLevel[world]', x=-5719.54, y=63.00, z=1760.84]
+[11Dec2024 03:47:26.090] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Bone'/5765, l='ServerLevel[world]', x=-5719.54, y=63.00, z=1760.84]
+[11Dec2024 03:47:26.091] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Bone'/5766, l='ServerLevel[world]', x=-5719.54, y=63.00, z=1760.84]
+[11Dec2024 03:47:26.092] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Bone'/5766, l='ServerLevel[world]', x=-5719.54, y=63.00, z=1760.84]
+[11Dec2024 03:47:26.097] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Bone'/5767, l='ServerLevel[world]', x=-5719.54, y=63.00, z=1760.84]
+[11Dec2024 03:47:26.098] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Bone'/5767, l='ServerLevel[world]', x=-5719.54, y=63.00, z=1760.84]
+[11Dec2024 03:47:26.100] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Bone'/5768, l='ServerLevel[world]', x=-5719.54, y=63.00, z=1760.84]
+[11Dec2024 03:47:26.101] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Bone'/5768, l='ServerLevel[world]', x=-5719.54, y=63.00, z=1760.84]
+[11Dec2024 03:48:10.958] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[11Dec2024 03:48:10.971] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[11Dec2024 03:48:19.535] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Creative Mode]
+[11Dec2024 03:49:06.292] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Survival Mode]
+[11Dec2024 03:50:59.447] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Creative Mode]
