@@ -8131,3 +8131,11 @@ java.lang.NullPointerException: null
 [11Dec2024 03:48:19.535] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Creative Mode]
 [11Dec2024 03:49:06.292] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Survival Mode]
 [11Dec2024 03:50:59.447] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Creative Mode]
+[11Dec2024 03:51:58.235] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Dion'/974, l='ServerLevel[world]', x=-5612.76, y=69.00, z=1755.28] died, message: 'Dion was sniped by Archer'
+[11Dec2024 03:52:47.979] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Survival Mode]
+[11Dec2024 03:53:10.819] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[11Dec2024 03:53:10.831] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[11Dec2024 03:58:10.690] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[11Dec2024 03:58:10.701] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[11Dec2024 04:00:12.883] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Creative Mode]
+[11Dec2024 04:01:23.845] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Survival Mode]
