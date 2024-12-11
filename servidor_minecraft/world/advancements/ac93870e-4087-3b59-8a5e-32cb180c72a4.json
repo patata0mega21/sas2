@@ -4498,6 +4498,12 @@
     },
     "done": true
   },
+  "paraglider:all_vessels": {
+    "criteria": {
+      "code_triggered": "2024-12-11 02:59:47 +0000"
+    },
+    "done": true
+  },
   "bigreactors:recipes/bigreactors.reactor/reactor/basic/passivetap_fe": {
     "criteria": {
       "has_item2": "2024-12-06 15:04:16 +0000"
@@ -4615,6 +4621,12 @@
   "create:recipes/create.palettes/framed_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2024-12-06 03:59:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2024-12-11 03:06:06 +0000"
     },
     "done": true
   },
