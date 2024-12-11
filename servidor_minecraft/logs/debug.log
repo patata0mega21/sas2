@@ -7678,3 +7678,16 @@ java.lang.NullPointerException: null
 [11Dec2024 01:12:45.744] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [11Dec2024 01:12:45.744] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [11Dec2024 01:12:58.679] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: I_4M_R3D is bleeding...
+[11Dec2024 01:16:54.756] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[11Dec2024 01:16:54.765] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[11Dec2024 01:17:19.526] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3ce879e5
+[11Dec2024 01:17:58.887] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Creative Mode]
+[11Dec2024 01:18:11.831] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Survival Mode]
+[11Dec2024 01:19:15.729] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Creative Mode]
+[11Dec2024 01:20:55.285] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Survival Mode]
+[11Dec2024 01:21:14.433] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Creative Mode]
+[11Dec2024 01:21:21.103] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Survival Mode]
+[11Dec2024 01:21:54.504] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[11Dec2024 01:21:54.515] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[11Dec2024 01:23:05.133] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Creative Mode]
+[11Dec2024 01:24:19.777] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Survival Mode]
