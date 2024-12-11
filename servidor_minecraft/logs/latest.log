@@ -709,3 +709,20 @@ java.lang.NullPointerException: null
 [11Dec2024 01:21:21.103] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Survival Mode]
 [11Dec2024 01:23:05.133] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Creative Mode]
 [11Dec2024 01:24:19.777] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Survival Mode]
+[11Dec2024 01:25:39.515] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Lasse'/1262, l='ServerLevel[world]', x=-865.02, y=85.00, z=-457.15] died, message: 'Lasse suffocated in a wall'
+[11Dec2024 01:29:03.745] [Server thread/ERROR] [net.minecraft.village.PointOfInterestData/]: POI data mismatch: already registered at BlockPos{x=-1018, y=33, z=-1001}
+[11Dec2024 01:29:38.653] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Creative Mode]
+[11Dec2024 01:31:27.970] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: patata0mega lost connection: Disconnected
+[11Dec2024 01:31:27.970] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: patata0mega left the game
+[11Dec2024 01:31:27.974] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client patata0mega
+[11Dec2024 01:31:28.082] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[11Dec2024 01:32:29.942] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3634c827
+[11Dec2024 01:32:29.958] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: patata0mega[/0:0:0:0:0:0:0:1%0:58026] logged in with entity id 8596 at (-5730.699999988079, 23.216606175505966, 1618.699999988079)
+[11Dec2024 01:32:29.969] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: patata0mega joined the game
+[11Dec2024 01:32:40.988] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: patata0mega lost connection: You logged in from another location
+[11Dec2024 01:32:40.988] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: patata0mega left the game
+[11Dec2024 01:32:40.989] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client patata0mega
+[11Dec2024 01:32:41.013] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: patata0mega[/0:0:0:0:0:0:0:1%0:54250] logged in with entity id 8697 at (-5730.699999988079, 23.216606175505966, 1618.699999988079)
+[11Dec2024 01:32:41.023] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: patata0mega joined the game
+[11Dec2024 01:32:41.740] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of patata0mega (18)
+[11Dec2024 01:32:41.741] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to patata0mega
