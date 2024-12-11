@@ -2316,6 +2316,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_illager_campsite": {
+    "criteria": {
+      "location0": "2024-12-11 02:22:59 +0000"
+    },
+    "done": true
+  },
   "bigreactors:recipes/bigreactors.turbine/turbine/basic/passivefluidport_forge": {
     "criteria": {
       "has_item2": "2024-12-06 04:49:24 +0000"
@@ -6408,6 +6414,12 @@
   "bigreactors:recipes/bigreactors.turbine/turbine/basic/activetap_fe": {
     "criteria": {
       "has_item2": "2024-12-09 03:22:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_glazed_terracotta": {
+    "criteria": {
+      "has_blue_terracotta": "2024-12-11 02:28:20 +0000"
     },
     "done": true
   },

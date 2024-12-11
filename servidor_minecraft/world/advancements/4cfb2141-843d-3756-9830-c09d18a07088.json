@@ -341,6 +341,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/creeper_banner_pattern": {
+    "criteria": {
+      "has_creeper_head": "2024-12-11 02:32:58 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/fancy_andesite_bricks_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-06 03:18:27 +0000"
@@ -590,6 +596,12 @@
   "cfm:recipes/cfm/stripped_spruce_kitchen_sink_light": {
     "criteria": {
       "has_bottom": "2024-12-06 02:30:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/smelting/scoria": {
+    "criteria": {
+      "has_item": "2024-12-11 02:25:28 +0000"
     },
     "done": true
   },
@@ -4469,6 +4481,12 @@
   "betterendforge:recipes/betterendforge/infusion_pedestal": {
     "criteria": {
       "has_ender_pearl": "2024-12-06 04:34:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2024-12-11 02:25:28 +0000"
     },
     "done": true
   },
