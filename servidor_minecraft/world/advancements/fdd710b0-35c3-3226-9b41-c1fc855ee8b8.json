@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_bricks_slab": {
+    "criteria": {
+      "has_item": "2024-12-11 03:34:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2024-12-06 03:12:32 +0000"
@@ -86,6 +92,12 @@
   "create:recipes/create.palettes/limestone_cobblestone_stairs": {
     "criteria": {
       "has_limestone_cobblestone": "2024-12-06 04:00:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-11 03:36:48 +0000"
     },
     "done": true
   },
@@ -221,6 +233,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_glass": {
+    "criteria": {
+      "has_item": "2024-12-11 03:34:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2024-12-07 03:27:13 +0000"
@@ -326,6 +344,12 @@
   "cfm:recipes/cfm/blue_grill": {
     "criteria": {
       "has_iron": "2024-12-06 02:37:57 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_bricks_slab_stonecutter": {
+    "criteria": {
+      "has_item": "2024-12-11 03:34:54 +0000"
     },
     "done": true
   },
@@ -611,6 +635,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2024-12-11 03:34:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
       "has_melon": "2024-12-06 02:36:21 +0000"
@@ -686,6 +716,12 @@
   "minecraft:recipes/travelersbackpack/cake_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2024-12-07 04:46:39 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/ingot_gauge": {
+    "criteria": {
+      "has_item": "2024-12-11 03:34:18 +0000"
     },
     "done": true
   },
@@ -803,6 +839,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/drain": {
+    "criteria": {
+      "has_item": "2024-12-11 03:34:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2024-12-07 03:16:16 +0000"
@@ -848,6 +890,12 @@
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2024-12-06 04:25:12 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:world/tinkers_gadgetry": {
+    "criteria": {
+      "crafted_book": "2024-12-11 03:34:18 +0000"
     },
     "done": true
   },
@@ -926,6 +974,12 @@
   "cfm:recipes/cfm/granite_coffee_table": {
     "criteria": {
       "has_planks": "2024-12-07 03:16:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-11 03:34:18 +0000"
     },
     "done": true
   },
@@ -1100,6 +1154,12 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2024-12-06 02:36:05 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_ladder": {
+    "criteria": {
+      "has_item": "2024-12-11 03:34:18 +0000"
     },
     "done": true
   },
@@ -1442,6 +1502,12 @@
   "create:recipes/create.base/crafting/kinetics/blue_seat": {
     "criteria": {
       "has_wool": "2024-12-06 04:25:34 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_bricks_wall_stonecutter": {
+    "criteria": {
+      "has_item": "2024-12-11 03:34:54 +0000"
     },
     "done": true
   },
@@ -1793,6 +1859,12 @@
     },
     "done": true
   },
+  "tconstruct:smeltery/puny_smelting": {
+    "criteria": {
+      "crafted_book": "2024-12-11 03:34:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-06 03:34:31 +0000"
@@ -2048,6 +2120,12 @@
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_red_mushroom": "2024-12-07 03:22:20 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_bricks_stairs_stonecutter": {
+    "criteria": {
+      "has_item": "2024-12-11 03:34:54 +0000"
     },
     "done": true
   },
@@ -2345,6 +2423,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2024-12-11 03:34:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/gray_seat": {
     "criteria": {
       "has_wool": "2024-12-06 04:25:34 +0000"
@@ -2366,6 +2450,12 @@
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_horse_armor": "2024-12-06 03:49:30 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_bricks_from_brick": {
+    "criteria": {
+      "has_item": "2024-12-11 03:34:18 +0000"
     },
     "done": true
   },
@@ -2591,6 +2681,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/melter": {
+    "criteria": {
+      "has_item": "2024-12-11 03:34:18 +0000"
+    },
+    "done": true
+  },
   "betterendforge:recipes/betterendforge/thallasium_axe_smithing": {
     "criteria": {
       "has_stick": "2024-12-06 02:39:05 +0000"
@@ -2636,6 +2732,12 @@
   "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2024-12-06 04:04:00 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/lantern": {
+    "criteria": {
+      "has_item": "2024-12-11 03:34:18 +0000"
     },
     "done": true
   },
@@ -3113,6 +3215,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/channel": {
+    "criteria": {
+      "has_item": "2024-12-11 03:34:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-07 03:55:35 +0000"
@@ -3209,6 +3317,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_bricks_stairs": {
+    "criteria": {
+      "has_item": "2024-12-11 03:34:54 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/oak_bedside_cabinet": {
     "criteria": {
       "has_planks": "2024-12-07 03:26:36 +0000"
@@ -3284,6 +3398,12 @@
   "create:recipes/create.base/crafting/kinetics/lime_seat": {
     "criteria": {
       "has_wool": "2024-12-06 04:25:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2024-12-11 03:34:18 +0000"
     },
     "done": true
   },
@@ -3404,6 +3524,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-06 02:48:39 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_triangle_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-12-11 03:34:54 +0000"
     },
     "done": true
   },
@@ -3621,6 +3747,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_cracked_bricks_smelting": {
+    "criteria": {
+      "has_item": "2024-12-11 03:34:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2024-12-06 04:04:00 +0000"
@@ -3822,6 +3954,12 @@
   "cfm:recipes/cfm/blue_cooler": {
     "criteria": {
       "has_chest": "2024-12-06 03:02:42 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/faucet": {
+    "criteria": {
+      "has_item": "2024-12-11 03:34:18 +0000"
     },
     "done": true
   },
@@ -4240,6 +4378,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/shuriken/flint_shuriken": {
+    "criteria": {
+      "has_item": "2024-12-11 03:34:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2024-12-09 02:42:08 +0000"
@@ -4456,6 +4600,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/table": {
+    "criteria": {
+      "has_item": "2024-12-11 03:34:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-06 02:48:39 +0000"
@@ -4468,9 +4618,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-12-11 03:34:18 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/red_kitchen_sink": {
     "criteria": {
       "has_bucket": "2024-12-07 03:14:38 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_fancy_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-12-11 03:34:54 +0000"
     },
     "done": true
   },
@@ -4573,6 +4735,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2024-12-06 02:31:48 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/ingot_tank": {
+    "criteria": {
+      "has_item": "2024-12-11 03:34:18 +0000"
     },
     "done": true
   },
@@ -4771,6 +4939,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-11 03:36:48 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/dark_oak_upgraded_fence": {
     "criteria": {
       "has_log": "2024-12-09 02:28:39 +0000"
@@ -4903,6 +5077,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/chute": {
+    "criteria": {
+      "has_item": "2024-12-11 03:34:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2024-12-06 02:36:10 +0000"
@@ -5011,6 +5191,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_bricks_wall": {
+    "criteria": {
+      "has_item": "2024-12-11 03:34:54 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/warped_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-06 03:02:42 +0000"
@@ -5086,6 +5272,12 @@
   "minecraft:recipes/travelersbackpack/snow_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2024-12-07 04:43:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-11 03:36:48 +0000"
     },
     "done": true
   },
@@ -5299,6 +5491,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/fuel_tank": {
+    "criteria": {
+      "has_item": "2024-12-11 03:34:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit_from_grill_cooking": {
     "criteria": {
       "has_rabbit": "2024-12-07 01:33:41 +0000"
@@ -5308,6 +5506,12 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2024-12-09 00:31:19 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-12-11 03:34:54 +0000"
     },
     "done": true
   },
@@ -5332,6 +5536,12 @@
   "cfm:recipes/cfm/red_sofa": {
     "criteria": {
       "has_wool": "2024-12-07 01:25:26 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/heater": {
+    "criteria": {
+      "has_item": "2024-12-11 03:34:18 +0000"
     },
     "done": true
   },
@@ -5440,6 +5650,12 @@
   "minecraft:recipes/travelersbackpack/horse_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2024-12-07 04:43:55 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/basin": {
+    "criteria": {
+      "has_item": "2024-12-11 03:34:18 +0000"
     },
     "done": true
   },
@@ -5578,6 +5794,12 @@
   "minecraft:recipes/travelersbackpack/squid_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2024-12-07 04:46:39 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/fuel_gauge": {
+    "criteria": {
+      "has_item": "2024-12-11 03:34:18 +0000"
     },
     "done": true
   },

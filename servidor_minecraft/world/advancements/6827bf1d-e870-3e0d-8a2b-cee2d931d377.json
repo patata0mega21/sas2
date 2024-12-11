@@ -287,6 +287,12 @@
     },
     "done": true
   },
+  "aquaculture:recipes/aquaculture/nether_star_hook": {
+    "criteria": {
+      "has_items": "2024-12-11 03:34:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2024-12-06 02:31:15 +0000"
@@ -2085,6 +2091,12 @@
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2024-12-06 03:13:09 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/glass/vanilla/beacon": {
+    "criteria": {
+      "has_nether_star": "2024-12-11 03:34:20 +0000"
     },
     "done": true
   },
@@ -5549,6 +5561,12 @@
   "minecraft:recipes/travelersbackpack/creeper_smithing_netherite": {
     "criteria": {
       "has_netherite_tier_upgrade": "2024-12-07 05:07:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2024-12-11 03:34:20 +0000"
     },
     "done": true
   },

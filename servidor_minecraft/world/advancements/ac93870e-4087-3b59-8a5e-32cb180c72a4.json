@@ -5598,6 +5598,12 @@
     },
     "done": true
   },
+  "bigreactors:recipes/bigreactors.general/reprocessor/fluidinjector": {
+    "criteria": {
+      "has_item2": "2024-12-11 03:17:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-09 02:35:00 +0000"
@@ -5631,6 +5637,12 @@
   "cfm:recipes/cfm/stripped_oak_chair": {
     "criteria": {
       "has_planks": "2024-12-06 16:35:22 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/bigreactors.general/fluidizer/fluidinjector": {
+    "criteria": {
+      "has_item2": "2024-12-11 03:17:37 +0000"
     },
     "done": true
   },
