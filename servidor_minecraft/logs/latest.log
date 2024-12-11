@@ -741,3 +741,11 @@ java.lang.NullPointerException: null
 [11Dec2024 01:50:47.680] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Creative Mode]
 [11Dec2024 01:51:25.999] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Survival Mode]
 [11Dec2024 01:55:36.326] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Oddrun'/20989, l='ServerLevel[world]', x=-918.79, y=69.94, z=-493.68] died, message: 'Oddrun was slain by Fallen Chaos Knight'
+[11Dec2024 01:59:14.940] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Creative Mode]
+[11Dec2024 01:59:57.487] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Survival Mode]
+[11Dec2024 02:00:25.064] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Solveig'/21024, l='ServerLevel[world]', x=-857.89, y=83.00, z=-473.11] died, message: 'Solveig suffocated in a wall'
+[11Dec2024 02:01:25.942] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Creative Mode]
+[11Dec2024 02:01:38.434] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Survival Mode]
+[11Dec2024 02:04:12.283] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: patata0mega moved wrongly!
+[11Dec2024 02:05:11.036] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Creative Mode]
+[11Dec2024 02:05:44.818] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Roland'/23457, l='ServerLevel[world]', x=-856.25, y=83.00, z=-472.07] died, message: 'Roland suffocated in a wall'

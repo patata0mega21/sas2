@@ -3853,6 +3853,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2024-12-11 01:53:21 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/blue_cooler": {
     "criteria": {
       "has_chest": "2024-12-07 05:24:25 +0000"
