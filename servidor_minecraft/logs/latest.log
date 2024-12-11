@@ -749,3 +749,21 @@ java.lang.NullPointerException: null
 [11Dec2024 02:04:12.283] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: patata0mega moved wrongly!
 [11Dec2024 02:05:11.036] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Creative Mode]
 [11Dec2024 02:05:44.818] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Roland'/23457, l='ServerLevel[world]', x=-856.25, y=83.00, z=-472.07] died, message: 'Roland suffocated in a wall'
+[11Dec2024 02:11:37.820] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1987a1d5
+[11Dec2024 02:11:37.839] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: yxrall[/0:0:0:0:0:0:0:1%0:37860] logged in with entity id 26765 at (-1689.6030762250004, 44.0, 9607.945389997387)
+[11Dec2024 02:11:37.844] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: yxrall joined the game
+[11Dec2024 02:11:38.931] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of yxrall (18)
+[11Dec2024 02:11:38.931] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to yxrall
+[11Dec2024 02:12:01.011] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[11Dec2024 02:12:18.897] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2892ms or 57 ticks behind
+[11Dec2024 02:12:36.272] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2418ms or 48 ticks behind
+[11Dec2024 02:12:53.861] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[11Dec2024 02:13:11.765] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[11Dec2024 02:13:29.141] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2386ms or 47 ticks behind
+[11Dec2024 02:13:46.865] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2761ms or 55 ticks behind
+[11Dec2024 02:14:07.377] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[11Dec2024 02:15:03.956] [Worker-Main-4/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:minecraft_empty
+[11Dec2024 02:15:03.957] [Worker-Main-4/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:minecraft_empty
+[11Dec2024 02:15:03.957] [Worker-Main-4/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:minecraft_empty
+[11Dec2024 02:15:03.958] [Worker-Main-4/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:minecraft_empty
+[11Dec2024 02:15:09.552] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: yxrall moved wrongly!
